@@ -1,53 +1,73 @@
 #include <iostream>
-#include <vector>
 
 using namespace std;
 
-void getInput(vector<int> &myList);
-void insertionSort(vector<int> &myList);
-void printVec(vector<int> myList);
+void getInput(int* &sortingArray, int sizeInput, char caseInput);
+void insertionSort(int* &sortingArray, int sizeInput);
+void printArray(int* sortingArray, int sizeInput);
+void generateArray(int* &sortingArray, int sizeInput, char caseInput);
 
 int main() {
-  vector<int> myList;
+  int* sortingArray;
+  int sizeInput;
+  char caseInput;
 
-  getInput(myList);
-  cout << "--- Here is the unsorted list ---" << endl;
-  printVec(myList);
-  insertionSort(myList);
-  cout << "--- Here is the sorted list ---" << endl;
-  printVec(myList);
+  getInput(sortingArray, sizeInput, caseInput);
+  insertionSort(sortingArray, sizeInput);
+  printArray(sortingArray, sizeInput);
 
   return 0;
 }
 
 
-void getInput(vector<int> &myList) {
-  int input=0;
+void getInput(int* &sortingArray, int sizeInput, char caseInput) {
+  cout << "--- Enter size of array followed by 'b' - best case, 'w' - worst case, or 'a' - average case ---" << endl;
+  cin >> sizeInput >> caseInput;
 
-  cout << "--- Insert numbers into the list, when done, type 999 ---" << endl;
-  while(cin >> input) {
-    if(input==999) {
-      break;
-    }
-    myList.push_back(input);
-  }
+  sortingArray=new int[sizeInput];
 }
 
-void insertionSort(vector<int> &myList) {
-  for(int idx=1; idx<myList.size(); idx++) {
-    int key=myList[idx];
+void insertionSort(int* &sortingArray, int sizeInput) {
+  for(int idx=1; idx<sizeInput; idx++) {
+    int key=sortingArray[idx];
     int idx2=idx-1;
-    while(idx2>=0 && myList[idx]>=key) {
-      myList[idx2+1]=myList[idx2];
+    while(idx2>=0 && sortingArray[idx]>=key) {
+      sortingArray[idx2+1]=sortingArray[idx2];
       idx2--;
     }
-    myList[idx2+1]=key;
+    sortingArray[idx2+1]=key;
   }
 }
 
-void printVec(vector<int> myList) {
-  for(int idx=0; idx<myList.size(); idx++) {
-    cout << myList[idx] << " ";
+void printArray(int* sortingArray, int sizeInput) {
+  for(int idx=0; idx<sizeInput; idx++) {
+    cout << sortingArray[idx] << " ";
   }
   cout << endl;
+}
+
+//others made generate array actually return and array pointer
+void generateArray(int* &sortingArray, int sizeInput, char caseInput) {
+  switch (caseInput) {
+    case 'b':
+      for(int idx=0; idx<sizeInput; idx++) {
+        sortingArray[idx]=idx+1;
+      }
+      break;
+    case 'w':
+      for(int idx=sizeInput; idx>=0; idx--) {
+        if(idx=sizeInput) {
+          sortingArray[idx]=1;
+        }
+        else {
+          sortingArray[idx]=sortingArray[idx+1]+1;
+        }
+      }
+      break;
+    case 'a':
+      break;
+    default:
+      cerr << "Error: Invalid case" << endl;
+      break;
+  }
 }
