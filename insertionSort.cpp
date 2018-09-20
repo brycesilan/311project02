@@ -1,4 +1,5 @@
 #include <iostream>
+#include <time.h>
 
 using namespace std;
 
@@ -11,8 +12,10 @@ int main() {
   int* sortingArray;
   int sizeInput;
   char caseInput;
+  srand(time(NULL));
 
   getInput(sizeInput, caseInput);
+
 
   sortingArray=generateArray(sizeInput, caseInput);
   cout << "--- Array has been made, it is: ";
@@ -21,6 +24,12 @@ int main() {
   insertionSort(sortingArray, sizeInput);
   cout << "--- Array has been sorted, it is: ";
   printArray(sortingArray, sizeInput);
+
+  if(sizeInput<=10) {
+    printArray(sortingArray, sizeInput);
+  }
+
+  delete sortingArray; //can I do this or is a loop needed?
 
   return 0;
 }
