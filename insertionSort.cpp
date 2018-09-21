@@ -44,7 +44,7 @@ void insertionSort(int* sortingArray, int sizeInput) {
   for(int idx=1; idx<sizeInput; idx++) {
     int key=sortingArray[idx];
     int idx2=idx-1;
-    while(idx2>=0 && sortingArray[idx]>=key) {
+    while(idx2>=0 && sortingArray[idx2]>=key) {
       sortingArray[idx2+1]=sortingArray[idx2];
       idx2--;
     }
@@ -73,7 +73,7 @@ int* generateArray(int sizeInput, char caseInput) {
       break;
     case 'a':
       for(int idx=0; idx<=sizeInput; idx++) {
-        thisArray[idx]=rand()%sizeInput+1;
+        thisArray[idx]=rand()%sizeInput+1; //make sure this works
       }
       break;
   }
