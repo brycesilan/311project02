@@ -15,15 +15,8 @@ int main() {
   srand(time(NULL));
 
   getInput(sizeInput, caseInput);
-
-
   sortingArray=generateArray(sizeInput, caseInput);
-  cout << "--- Array has been made, it is: ";
-  printArray(sortingArray, sizeInput);
-
   insertionSort(sortingArray, sizeInput);
-  cout << "--- Array has been sorted, it is: ";
-  printArray(sortingArray, sizeInput);
 
   if(sizeInput<=10) {
     printArray(sortingArray, sizeInput);
@@ -73,7 +66,7 @@ int* generateArray(int sizeInput, char caseInput) {
       break;
     case 'a':
       for(int idx=0; idx<=sizeInput; idx++) {
-        thisArray[idx]=rand()%sizeInput+1; //make sure this works
+        thisArray[idx]=rand()%sizeInput+1; //make sure this works (it looks like it does)
       }
       break;
   }
