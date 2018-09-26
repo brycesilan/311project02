@@ -22,8 +22,8 @@ public:
    int getSize(){return data.size();}
    void print();                          // prints out data
    void insertionSort(int type);               // sorts data using insertionSort
-   void mergeSort(int /*TODO*/);                   // sorts data using mergeSort
-   void quickSort(int /*TODO*/);                   // sorts data using quickSort
+   void mergeSort(int type);                   // sorts data using mergeSort
+   void quickSort(int type);                   // sorts data using quickSort
 private:
    class Record {                         // declaration of a Record
    public:
@@ -37,6 +37,10 @@ private:
 //
 // You may add your private helper functions here!
 //
+  void merge_sort(int leftBound, int rightBound);
+  void merge(int leftBound, int midBound, int rightBound);
+  void quicksort(int leftBound, int rightBound);
+  int partition(int leftBound, int rightBound);
 };
 
 #endif // CSCI_311_CENSUSDATA_H

@@ -46,9 +46,22 @@ void CensusData::insertionSort(int type) {
 }
 
 // formal parameter name commented out to avoid unused variable warning
-void CensusData::mergeSort(int /*type*/) {
+void CensusData::mergeSort(int type) {
 }
 
 // formal parameter name commented out to avoid unused variable warning
-void CensusData::quickSort(int /*type*/) {
+void CensusData::quickSort(int type) {
+}
+
+// helper data functions ---------------------------------------------
+void CensusData::merge_sort(int leftBound, int rightBound) {
+}
+
+void CensusData::merge(int leftBound, int midBound, int rightBound) {
+}
+
+void CensusData::quicksort(int leftBound, int rightBound) {
+}
+
+int CensusData::partition(int leftBound, int rightBound) {
 }
