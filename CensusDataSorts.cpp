@@ -44,7 +44,6 @@ void CensusData::insertionSort(int type) {
   }
 }
 
-// formal parameter name commented out to avoid unused variable warning
 void CensusData::mergeSort(int type) {
   if(type==0) {
     merge_sort(0, data.size());
@@ -53,7 +52,7 @@ void CensusData::mergeSort(int type) {
   }
 }
 
-// formal parameter name commented out to avoid unused variable warning
+//TODO needs to be a randomized quicksort
 void CensusData::quickSort(int type) {
   if(type==0) {
   }
@@ -75,8 +74,8 @@ void CensusData::merge_sort(int leftBound, int rightBound) {
 void CensusData::merge(int leftBound, int midBound, int rightBound) {
   int arrayMark1 = midBound-leftBound+1;
   int arrayMark2 = rightBound-midBound;
-  Record* leftArray[arrayMark1];
-  Record* rightArray[arrayMark2];
+  vector<Record*> leftArray(arrayMark1);
+  vector<Record*> rightArray(arrayMark2);
 
   for(int idx=0; idx<=arrayMark1; idx++) {
     leftArray[idx]=data[leftBound+idx-1];
@@ -87,15 +86,25 @@ void CensusData::merge(int leftBound, int midBound, int rightBound) {
 
   //TODO pseudocode says to set the last array values to infinity here?
 
-  int idx1=0, idx2=0;
+  unsigned int idx1=0, idx2=0;
   for(int idx=leftBound; idx<=rightBound; idx++) {
-    if(leftArray[idx1]->population <= rightArray[idx2]->population) { //in settind that data array record may need another pointer to hold record (like in insSort)
+    if(idx1>leftArray.size()) {
+      data[idx]=rightArray[idx2];
+      idx2++;
+    }
+    else if(idx1>rightArray.size()) {
       data[idx]=leftArray[idx1];
       idx1++;
     }
     else {
-      data[idx]=rightArray[idx2];
-      idx2++;
+      if(leftArray[idx1]->population <= rightArray[idx2]->population) {
+        data[idx]=leftArray[idx1];
+        idx1++;
+      }
+      else {
+        data[idx]=rightArray[idx2];
+        idx2++;
+      }
     }
   }
 }
