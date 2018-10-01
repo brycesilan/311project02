@@ -31,7 +31,6 @@ void CensusData::insertionSort(int type) {
     }
   }
   else if(type==1) {
-    //TODO insertion sort by name
     for(unsigned int idx=1; idx<data.size(); idx++) {
       string key=*data[idx]->city;
       int idx2=idx-1;
@@ -47,21 +46,64 @@ void CensusData::insertionSort(int type) {
 
 // formal parameter name commented out to avoid unused variable warning
 void CensusData::mergeSort(int type) {
+  if(type==0) {
+    merge_sort(0, data.size());
+  }
+  else if(type==1) {
+  }
 }
 
 // formal parameter name commented out to avoid unused variable warning
 void CensusData::quickSort(int type) {
+  if(type==0) {
+  }
+  else if(type==1) {
+  }
 }
 
 // helper data functions ---------------------------------------------
 void CensusData::merge_sort(int leftBound, int rightBound) {
+  if(leftBound<rightBound) {
+    int midPoint = (leftBound+rightBound)/2;
+
+    merge_sort(leftBound, midPoint);
+    merge_sort(midPoint+1, rightBound);
+    merge(leftBound, midPoint, rightBound);
+  }
 }
 
 void CensusData::merge(int leftBound, int midBound, int rightBound) {
+  int arrayMark1 = midBound-leftBound+1;
+  int arrayMark2 = rightBound-midBound;
+  Record* leftArray[arrayMark1];
+  Record* rightArray[arrayMark2];
+
+  for(int idx=0; idx<=arrayMark1; idx++) {
+    leftArray[idx]=data[leftBound+idx-1];
+  }
+  for(int idx=0; idx<=arrayMark2; idx++) {
+    rightArray[idx]=data[midBound+idx];
+  }
+
+  //TODO pseudocode says to set the last array values to infinity here?
+
+  int idx1=0, idx2=0;
+  for(int idx=leftBound; idx<=rightBound; idx++) {
+    if(leftArray[idx1]->population <= rightArray[idx2]->population) { //in settind that data array record may need another pointer to hold record (like in insSort)
+      data[idx]=leftArray[idx1];
+      idx1++;
+    }
+    else {
+      data[idx]=rightArray[idx2];
+      idx2++;
+    }
+  }
 }
 
-void CensusData::quicksort(int leftBound, int rightBound) {
-}
+/*
+   void CensusData::quicksort(int leftBound, int rightBound) {
+   }
 
-int CensusData::partition(int leftBound, int rightBound) {
-}
+   int CensusData::partition(int leftBound, int rightBound) {
+   }
+   */
