@@ -60,7 +60,7 @@ void CensusData::quickSort(int type) {
   }
 }
 
-// helper data functions ---------------------------------------------
+// helper data functions --------------------------------------------
 void CensusData::merge_sort(int leftBound, int rightBound) {
   if(leftBound<rightBound) {
     int midPoint = (leftBound+rightBound)/2;
