@@ -64,7 +64,6 @@ void CensusData::quickSort(int type) {
 void CensusData::merge_sort(int leftBound, int rightBound) {
   if(leftBound<rightBound) {
     int midPoint = (leftBound+rightBound)/2;
-
     merge_sort(leftBound, midPoint);
     merge_sort(midPoint+1, rightBound);
     merge(leftBound, midPoint, rightBound);
@@ -78,7 +77,7 @@ void CensusData::merge(int leftBound, int midBound, int rightBound) {
   vector<Record*> rightArray(arrayMark2);
 
   for(int idx=0; idx<=arrayMark1; idx++) {
-    leftArray[idx]=data[leftBound+idx-1];
+    leftArray[idx]=data[leftBound+idx];
   }
   for(int idx=0; idx<=arrayMark2; idx++) {
     rightArray[idx]=data[midBound+idx];
