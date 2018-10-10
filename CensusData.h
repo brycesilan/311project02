@@ -37,9 +37,10 @@ private:
 //
 // You may add your private helper functions here!
 //
-  void merge_sort(int leftBound, int rightBound);
-  void merge(int leftBound, int midBound, int rightBound);
-  void quicksort(int leftBound, int rightBound);
+  void mergeSort(int leftBound, int rightBound, int namePopulation);
+  void merge(int leftBound, int midBound, int rightBound, int namePopulation);
+  void quickSort(int leftBound, int rightBound);
+  int randomizedPartition(int leftBound, int rightBound);
   int partition(int leftBound, int rightBound);
 };
 
