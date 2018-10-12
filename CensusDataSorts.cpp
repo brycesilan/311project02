@@ -18,7 +18,7 @@
 
 //define insertion sort function
 //returns nothing
-//pass in a 'type' int, for deciding whether to sort by name or population
+//pass in a 'type' int to sort by name or population
 void CensusData::insertionSort(int type) {
   //if type==0, sort by population
   if(type==0) {
@@ -78,24 +78,20 @@ void CensusData::mergeSort(int type) {
 void CensusData::quickSort(int type) {
   //if type==0, sort by population
   if(type==0) {
-    //pass leftBound=0, rightBound=data.size()-1 TODO maybe type
+    //pass leftBound=0, rightBound=data.size()-1, type=0(for name sort)
     quickSort(0, data.size()-1, type);
   }
   //if type==1, sort by name
   else if(type==1) {
-    //pass leftBound=0, rightBound=data.size()-1
+    //pass leftBound=0, rightBound=data.size()-1, type=1(for pop. sort
     quickSort(0, data.size()-1, type);
   }
 }
 
-// helper data functions --------------------------------------------
-// helper data functions --------------------------------------------
-// helper data functions --------------------------------------------
-// helper data functions --------------------------------------------
-
 //definition of merge sort helper function
 //returns nothing
-//pass in leftBound, rightBound, and namePopulation(for which sort type)
+//pass in leftBound/rightBound for array use
+//  and namePopulation(for sorting type)
 void CensusData::mergeSort(int leftBound, int rightBound, int namePopulation) {
   //if not in a base case then sort
   if(leftBound<rightBound) {
@@ -112,7 +108,8 @@ void CensusData::mergeSort(int leftBound, int rightBound, int namePopulation) {
 
 //definition of merge helper function
 //returns nothing
-//pass in leftBound, midBound, rightBound, and namePopulation
+//pass in leftBound/midBound/rightBound for array use
+//  and namePopulation(for sorting type)
 void CensusData::merge(int leftBound, int midBound, int rightBound, int namePopulation) {
   //declare/define array sizes for left and right
   int arrayMark1 = midBound-leftBound+1;
@@ -178,28 +175,54 @@ void CensusData::merge(int leftBound, int midBound, int rightBound, int namePopu
   }
 }
 
+//definition of quicksort function
+//returns nothing
+//pass in leftBound/rightBound for array use
+//  and namePopulation(for sorting type)
 void CensusData::quickSort(int leftBound, int rightBound, int namePopulation) {
+  //checks for base case, of 1 item or less array
   if(leftBound<rightBound) {
+    //create a midbound by calling randomizedPartition, pass in vars.
     int midBound=randomizedPartition(leftBound, rightBound, namePopulation);
+    //call quicksort on each sub-array (left/right)
     quickSort(leftBound, midBound-1, namePopulation);
     quickSort(midBound+1, rightBound, namePopulation);
   }
 }
 
+//definition of randomizedPartition function
+//returns an int that shows the middle
+//  between the two sorted halves
+//pass in left/right bounds for array use
+//  and namePopulation(for sorting type)
 int CensusData::randomizedPartition(int leftBound, int rightBound, int namePopulation) {
+  //seed random
   srand (time(NULL));
+  //set randomNum to something from leftBound to rightBound
   int randomNum = rand()%((rightBound-leftBound)+1)+leftBound;
+  //swap data numbers [randomNum] and [rightBound]
+  // to avoid worst case sorting 
   Record* tmp=data[randomNum];
   data[randomNum]=data[rightBound];
   data[rightBound]=tmp;
+  //return result of partition, pass in left/right/namPop
   return partition(leftBound, rightBound, namePopulation);
 }
 
+//definition of partition function
+//returns int of indicating the mid of the two sorted halves
+//pass in left/right bounds for array use
+//  and namePopulation(for sorting type)
 int CensusData::partition(int leftBound, int rightBound, int namePopulation) {
+  //create a pivot value (record pointer)
   Record* pivot=data[rightBound];
+  //create the <= half marker
   int leftIterator=leftBound-1;
+  //loops for difference between left/right bounds
   for(int idx=leftBound; idx<=rightBound-1; idx++) {
+    //sort by name
     if(namePopulation==0) {
+      //compares populations, swap if necessary
       if(data[idx]->population <= pivot->population) {
         leftIterator++;
         Record* tmp=data[leftIterator];
@@ -207,7 +230,10 @@ int CensusData::partition(int leftBound, int rightBound, int namePopulation) {
         data[idx]=tmp;
       }
     }
+    //sort by population
     else {
+      //compares city names alphabetically
+      //  swap if necessary
       if(*data[idx]->city <= *pivot->city) {
         leftIterator++;
         Record* tmp=data[leftIterator];
@@ -216,8 +242,10 @@ int CensusData::partition(int leftBound, int rightBound, int namePopulation) {
       }
     }
   }
+  //swap pivot data with one after the <= half marker
   Record* tmp=data[leftIterator+1];
   data[leftIterator+1]=data[rightBound];
   data[rightBound]=tmp;
+  //return the <= half marker
   return leftIterator+1;
 }
