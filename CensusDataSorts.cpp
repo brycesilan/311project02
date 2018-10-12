@@ -74,7 +74,7 @@ void CensusData::mergeSort(int type) {
 
 //definition of quick sort function
 //return nothing
-//pass in int 'type' to sort by name or population
+//pass in int 'type' (sort by name/population
 void CensusData::quickSort(int type) {
   //if type==0, sort by population
   if(type==0) {
