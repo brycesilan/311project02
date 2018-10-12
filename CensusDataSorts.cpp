@@ -79,12 +79,12 @@ void CensusData::quickSort(int type) {
   //if type==0, sort by population
   if(type==0) {
     //pass leftBound=0, rightBound=data.size()-1 TODO maybe type
-    quickSort(0, data.size()-1);
+    quickSort(0, data.size()-1, type);
   }
   //if type==1, sort by name
   else if(type==1) {
     //pass leftBound=0, rightBound=data.size()-1
-    quickSort(0, data.size()-1);
+    quickSort(0, data.size()-1, type);
   }
 }
 
@@ -178,31 +178,42 @@ void CensusData::merge(int leftBound, int midBound, int rightBound, int namePopu
   }
 }
 
-void CensusData::quickSort(int leftBound, int rightBound) {
+void CensusData::quickSort(int leftBound, int rightBound, int namePopulation) {
   if(leftBound<rightBound) {
-    int midBound=randomizedPartition(leftBound, rightBound);
-    quickSort(leftBound, midBound-1);
-    quickSort(midBound+1, rightBound);
+    int midBound=randomizedPartition(leftBound, rightBound, namePopulation);
+    quickSort(leftBound, midBound-1, namePopulation);
+    quickSort(midBound+1, rightBound, namePopulation);
   }
 }
 
-int CensusData::randomizedPartition(int leftBound, int rightBound) {
-  int randomNum = rand()%rightBound+leftBound;
+int CensusData::randomizedPartition(int leftBound, int rightBound, int namePopulation) {
+  srand (time(NULL));
+  int randomNum = rand()%((rightBound-leftBound)+1)+leftBound;
   Record* tmp=data[randomNum];
   data[randomNum]=data[rightBound];
   data[rightBound]=tmp;
-  return partition(leftBound, rightBound);
+  return partition(leftBound, rightBound, namePopulation);
 }
 
-int CensusData::partition(int leftBound, int rightBound) {
+int CensusData::partition(int leftBound, int rightBound, int namePopulation) {
   Record* pivot=data[rightBound];
   int leftIterator=leftBound-1;
-  for(int idx=leftBound; idx>=rightBound-1; idx++) {
-    if(data[idx]->population <= pivot->population) {
-      leftIterator++;
-      Record* tmp=data[leftIterator];
-      data[leftIterator]=data[rightBound];
-      data[rightBound]=tmp;
+  for(int idx=leftBound; idx<=rightBound-1; idx++) {
+    if(namePopulation==0) {
+      if(data[idx]->population <= pivot->population) {
+        leftIterator++;
+        Record* tmp=data[leftIterator];
+        data[leftIterator]=data[idx];
+        data[idx]=tmp;
+      }
+    }
+    else {
+      if(*data[idx]->city <= *pivot->city) {
+        leftIterator++;
+        Record* tmp=data[leftIterator];
+        data[leftIterator]=data[idx];
+        data[idx]=tmp;
+      }
     }
   }
   Record* tmp=data[leftIterator+1];

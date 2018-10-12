@@ -39,9 +39,9 @@ private:
 //
   void mergeSort(int leftBound, int rightBound, int namePopulation);
   void merge(int leftBound, int midBound, int rightBound, int namePopulation);
-  void quickSort(int leftBound, int rightBound);
-  int randomizedPartition(int leftBound, int rightBound);
-  int partition(int leftBound, int rightBound);
+  void quickSort(int leftBound, int rightBound, int namePopulation);
+  int randomizedPartition(int leftBound, int rightBound, int namePopulation);
+  int partition(int leftBound, int rightBound, int namePopulation);
 };
 
 #endif // CSCI_311_CENSUSDATA_H
