@@ -17,7 +17,12 @@
 #include "CensusData.h"
 
 //define insertion sort function
+//
 //returns nothing
+//
+//sorts data using insertion sorting algorithm
+//by name or population
+//
 //pass in a 'type' int to sort by name or population
 void CensusData::insertionSort(int type) {
   //if type==0, sort by population
@@ -57,7 +62,12 @@ void CensusData::insertionSort(int type) {
 }
 
 //definition of merge sort function
+//
 //return nothing
+//
+//sorts data using merge sort algorithm
+//by name or population
+//
 //pass in int 'type' to sort by name or population
 void CensusData::mergeSort(int type) {
   //if type==0, sort by pop.
@@ -73,7 +83,12 @@ void CensusData::mergeSort(int type) {
 }
 
 //definition of quick sort function
+//
 //return nothing
+//
+//sorts data using randomized quicksort algorithm
+//by name or population
+//
 //pass in int 'type' (sort by name/population
 void CensusData::quickSort(int type) {
   //instantiate and seed the random number generator
@@ -94,9 +109,14 @@ void CensusData::quickSort(int type) {
 }
 
 //definition of merge sort helper function
+//
 //returns nothing
+//
+//sorts by recursively calling mergesort and merge
+//on two halves of the data set
+//
 //pass in leftBound/rightBound for array use
-//  and namePopulation(for sorting type)
+//and namePopulation(for sorting type)
 void CensusData::mergeSort(int leftBound, int rightBound, int namePopulation) {
   //if not in a base case then sort
   if(leftBound<rightBound) {
@@ -112,9 +132,14 @@ void CensusData::mergeSort(int leftBound, int rightBound, int namePopulation) {
 }
 
 //definition of merge helper function
+//
 //returns nothing
+//
+//merges, in order, the left and right
+//arrays based on the passed in bounds
+//
 //pass in leftBound/midBound/rightBound for array use
-//  and namePopulation(for sorting type)
+//and namePopulation(for sorting type)
 void CensusData::merge(int leftBound, int midBound, int rightBound, int namePopulation) {
   //declare/define array sizes for left and right
   int arrayMark1 = midBound-leftBound+1;
@@ -181,9 +206,15 @@ void CensusData::merge(int leftBound, int midBound, int rightBound, int namePopu
 }
 
 //definition of quicksort function
+//
 //returns nothing
+//
+//sorts data based on passed in
+//and calculated bounds (with randomized partition)
+//recursively calls itself
+//
 //pass in leftBound/rightBound for array use
-//  and namePopulation(for sorting type)
+//and namePopulation(for sorting type)
 void CensusData::quickSort(int leftBound, int rightBound, int namePopulation, std::default_random_engine generator) {
   //checks for base case, of 1 item or less array
   if(leftBound<rightBound) {
@@ -196,10 +227,17 @@ void CensusData::quickSort(int leftBound, int rightBound, int namePopulation, st
 }
 
 //definition of randomizedPartition function
+//
 //returns an int that shows the middle
-//  between the two sorted halves
+//between the two sorted halves
+//
+//makes a random number between the bounds
+//and switches the last data value with the
+//random one to avoid worst case sorting
+//then calls partition
+//
 //pass in left/right bounds for array use
-//  and namePopulation(for sorting type)
+//and namePopulation(for sorting type)
 int CensusData::randomizedPartition(int leftBound, int rightBound, int namePopulation, std::default_random_engine generator) {
   //set randomNum to a num. from leftBound to rightBound
   std::uniform_int_distribution<int> distribution(leftBound,rightBound);
@@ -214,9 +252,14 @@ int CensusData::randomizedPartition(int leftBound, int rightBound, int namePopul
 }
 
 //definition of partition function
+//
 //returns int of indicating the mid of the two sorted halves
+//
+//uses bounds to sort sub-arrays based on either name
+//or population
+//
 //pass in left/right bounds for array use
-//  and namePopulation(for sorting type)
+//and namePopulation(for sorting type)
 int CensusData::partition(int leftBound, int rightBound, int namePopulation) {
   //create a pivot value (record pointer)
   Record* pivot=data[rightBound];
