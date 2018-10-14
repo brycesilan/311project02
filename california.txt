@@ -3924,7 +3924,7 @@ Wheatland city, California, 3456
 Balance of Yuba County, California, 56627
 
 Sorted by POPULATION
-CPU time: 0.0785526 seconds on 3920 records
+CPU time: 0.0786054 seconds on 3920 records
 Eastvale city, California, 0
 Eastvale city, California, 0
 Jennette town (pt.), Arkansas, 0
@@ -7847,7 +7847,7 @@ Los Angeles County, California, 9818605
 California, California, 37253956
 
 Sorted by NAME
-CPU time: 0.339399 seconds on 3920 records
+CPU time: 0.341778 seconds on 3920 records
 Abbeville city, Alabama, 2688
 Abbeville city, Alabama, 2688
 Adak city, Alaska, 326
@@ -15694,7 +15694,7 @@ Wheatland city, California, 3456
 Balance of Yuba County, California, 56627
 
 Sorted by POPULATION
-CPU time: 0.00732918 seconds on 3920 records
+CPU time: 0.00748394 seconds on 3920 records
 Garden City town (pt.), Alabama, 0
 Trafford town (pt.), Alabama, 0
 Piedmont city (pt.), Alabama, 0
@@ -19617,7 +19617,7 @@ Los Angeles County, California, 9818605
 California, California, 37253956
 
 Sorted by NAME
-CPU time: 0.00964518 seconds on 3920 records
+CPU time: 0.00971291 seconds on 3920 records
 Abbeville city, Alabama, 2688
 Abbeville city, Alabama, 2688
 Adak city, Alaska, 326
@@ -27464,34 +27464,34 @@ Wheatland city, California, 3456
 Balance of Yuba County, California, 56627
 
 Sorted by POPULATION
-CPU time: 0.00258359 seconds on 3920 records
-Eastvale city, California, 0
+CPU time: 0.00263035 seconds on 3920 records
 Tusayan town, Arizona, 0
 Kachemak city, Alaska, 0
-Piedmont city (pt.), Alabama, 0
-Marana town (pt.), Arizona, 0
-Trafford town (pt.), Alabama, 0
-Eastvale city, California, 0
-Winkelman town (pt.), Arizona, 0
-Jennette town (pt.), Arkansas, 0
-Tusayan town, Arizona, 0
-Gu-Win town (pt.), Alabama, 0
-Vincent town (pt.), Alabama, 0
-Vincent town (pt.), Alabama, 0
-Wickenburg town (pt.), Arizona, 0
-Hayden town (pt.), Arizona, 0
 Garden City town (pt.), Alabama, 0
+Wickenburg town (pt.), Arizona, 0
+Vincent town (pt.), Alabama, 0
+Eastvale city, California, 0
+Trafford town (pt.), Alabama, 0
 Kachemak city, Alaska, 0
+Tusayan town, Arizona, 0
+Piedmont city (pt.), Alabama, 0
+Hayden town (pt.), Arizona, 0
+Marana town (pt.), Arizona, 0
+Winkelman town (pt.), Arizona, 0
+Gu-Win town (pt.), Alabama, 0
+Jennette town (pt.), Arkansas, 0
+Eastvale city, California, 0
+Vincent town (pt.), Alabama, 0
 Nauvoo town (pt.), Alabama, 1
 Big Flat town (pt.), Arkansas, 1
 Magnet Cove town, Arkansas, 5
-Magnet Cove town, Arkansas, 5
 Dothan city (pt.), Alabama, 5
+Magnet Cove town, Arkansas, 5
 Sardis City town (pt.), Alabama, 6
 Taylor town (pt.), Alabama, 7
 Peoria city (pt.), Arizona, 7
-McKenzie town (pt.), Alabama, 8
 Horseshoe Bend city (pt.), Arkansas, 8
+McKenzie town (pt.), Alabama, 8
 McMullen town, Alabama, 10
 McMullen town, Alabama, 10
 Bettles city, Alaska, 12
@@ -27504,85 +27504,85 @@ Collinsville town (pt.), Alabama, 21
 Sand Rock town (pt.), Alabama, 23
 Oak Hill town, Alabama, 26
 Oak Hill town, Alabama, 26
+Kupreanof city, Alaska, 27
 Arab city (pt.), Alabama, 27
 Kupreanof city, Alaska, 27
-Kupreanof city, Alaska, 27
 Gilbert town, Arkansas, 28
 Gilbert town, Arkansas, 28
 Memphis town, Alabama, 29
 Memphis town, Alabama, 29
-Blue Eye town, Arkansas, 30
 Blue Eye town, Arkansas, 30
 Quitman city (pt.), Arkansas, 30
+Blue Eye town, Arkansas, 30
 Altoona town (pt.), Alabama, 30
 False Pass city, Alaska, 35
 False Pass city, Alaska, 35
 Victoria town, Arkansas, 37
+Natural Bridge town, Alabama, 37
 Victoria town, Arkansas, 37
 Natural Bridge town, Alabama, 37
-Natural Bridge town, Alabama, 37
-Glencoe city (pt.), Alabama, 38
+Wiederkehr Village city, Arkansas, 38
 Elm Springs city (pt.), Arkansas, 38
-Wiederkehr Village city, Arkansas, 38
+Glencoe city (pt.), Alabama, 38
 Wiederkehr Village city, Arkansas, 38
 Jerome town, Arkansas, 39
 Jerome town, Arkansas, 39
 Birdsong town, Arkansas, 41
 Birdsong town, Arkansas, 41
-Glenwood city (pt.), Arkansas, 42
 Hardy city (pt.), Arkansas, 42
+Glenwood city (pt.), Arkansas, 42
 Emmet city (pt.), Arkansas, 43
 Waverly town (pt.), Alabama, 47
 Haleyville city (pt.), Alabama, 48
 Kasaan city, Alaska, 49
-Kasaan city, Alaska, 49
-Benton town, Alabama, 49
 Vance town (pt.), Alabama, 49
 Benton town, Alabama, 49
-Port Alexander city, Alaska, 52
-Dayton town, Alabama, 52
-Port Alexander city, Alaska, 52
-Dayton town, Alabama, 52
+Benton town, Alabama, 49
+Kasaan city, Alaska, 49
 Glen Allen town (pt.), Alabama, 52
+Dayton town, Alabama, 52
+Port Alexander city, Alaska, 52
+Port Alexander city, Alaska, 52
+Dayton town, Alabama, 52
 Emelle town, Alabama, 53
 Mooresville town, Alabama, 53
 Emelle town, Alabama, 53
 Mooresville town, Alabama, 53
 Tinsman town, Arkansas, 54
 Tinsman town, Arkansas, 54
-Cardiff town, Alabama, 55
 Goldville town, Alabama, 55
 Cardiff town, Alabama, 55
 Goldville town, Alabama, 55
+Cardiff town, Alabama, 55
 Balance of Aleutians East Borough, Alaska, 57
 Petrey town, Alabama, 58
 Petrey town, Alabama, 58
-Rudy town, Arkansas, 61
-Atka city, Alaska, 61
-Atka city, Alaska, 61
-Hindsville town, Arkansas, 61
-Hindsville town, Arkansas, 61
-Platinum city, Alaska, 61
-Waldenburg town, Arkansas, 61
-Rudy town, Arkansas, 61
-Platinum city, Alaska, 61
 County Line town (pt.), Alabama, 61
-Argo town (pt.), Alabama, 61
+Rudy town, Arkansas, 61
+Platinum city, Alaska, 61
+Hindsville town, Arkansas, 61
 Waldenburg town, Arkansas, 61
+Atka city, Alaska, 61
+Platinum city, Alaska, 61
+Rudy town, Arkansas, 61
+Hindsville town, Arkansas, 61
+Waldenburg town, Arkansas, 61
+Atka city, Alaska, 61
+Argo town (pt.), Alabama, 61
+Clark's Point city, Alaska, 62
+Clark's Point city, Alaska, 62
 Fourche town, Arkansas, 62
-Clark's Point city, Alaska, 62
-Clark's Point city, Alaska, 62
 Fourche town, Arkansas, 62
 Oakhaven town, Arkansas, 63
 Oakhaven town, Arkansas, 63
 Patmos town, Arkansas, 64
-Morrison Bluff town, Arkansas, 64
 Patmos town, Arkansas, 64
 Morrison Bluff town, Arkansas, 64
+Morrison Bluff town, Arkansas, 64
 McNab town, Arkansas, 68
 Pilot Point city, Alaska, 68
-Pilot Point city, Alaska, 68
 McNab town, Arkansas, 68
+Pilot Point city, Alaska, 68
 Nimmons town, Arkansas, 69
 Nimmons town, Arkansas, 69
 Corinth town, Arkansas, 70
@@ -27592,15 +27592,15 @@ Akhiok city, Alaska, 71
 Powhatan town, Arkansas, 72
 Powhatan town, Arkansas, 72
 Alpena town (pt.), Arkansas, 73
-Williford town, Arkansas, 75
-Weldon town, Arkansas, 75
 Weldon town, Arkansas, 75
 Notasulga town (pt.), Alabama, 75
+Weldon town, Arkansas, 75
 Williford town, Arkansas, 75
+Williford town, Arkansas, 75
+Hughes city, Alaska, 77
+Union Grove town, Alabama, 77
 Union Grove town, Alabama, 77
 Hughes city, Alaska, 77
-Hughes city, Alaska, 77
-Union Grove town, Alabama, 77
 Smithville town, Arkansas, 78
 Smithville town, Arkansas, 78
 Cale town, Arkansas, 79
@@ -27609,25 +27609,25 @@ Ethelsville town, Alabama, 81
 Ethelsville town, Alabama, 81
 Shageluk city, Alaska, 83
 Shageluk city, Alaska, 83
-Marie town, Arkansas, 84
 Decatur city (pt.), Alabama, 84
 Sherrill town, Arkansas, 84
+Marie town, Arkansas, 84
 Sherrill town, Arkansas, 84
 Marie town, Arkansas, 84
 Ozan town, Arkansas, 85
 Anvik city, Alaska, 85
-Ozan town, Arkansas, 85
 Anvik city, Alaska, 85
+Ozan town, Arkansas, 85
 Guion town, Arkansas, 86
 Guion town, Arkansas, 86
 Eagle city, Alaska, 86
 Eagle city, Alaska, 86
-Larsen Bay city, Alaska, 87
 Vandervoort town, Arkansas, 87
 Springtown town, Arkansas, 87
 Springtown town, Arkansas, 87
-Larsen Bay city, Alaska, 87
 Vandervoort town, Arkansas, 87
+Larsen Bay city, Alaska, 87
+Larsen Bay city, Alaska, 87
 Pelican city, Alaska, 88
 Pelican city, Alaska, 88
 LaGrange town, Arkansas, 89
@@ -27643,22 +27643,22 @@ Needham town, Alabama, 94
 Nikolai city, Alaska, 94
 Lonsdale town, Arkansas, 94
 Koyukuk city, Alaska, 96
-Coy town, Arkansas, 96
 Blue Springs town, Alabama, 96
+Coy town, Arkansas, 96
 Calera city (pt.), Alabama, 96
+Blue Springs town, Alabama, 96
 McCaskill town, Arkansas, 96
 Koyukuk city, Alaska, 96
 Coy town, Arkansas, 96
 McCaskill town, Arkansas, 96
-Blue Springs town, Alabama, 96
-Woodstock town (pt.), Alabama, 98
-Amagon town, Arkansas, 98
-Fargo town, Arkansas, 98
-Fargo town, Arkansas, 98
 Amagon town, Arkansas, 98
 Faunsdale town, Alabama, 98
 Waverly town (pt.), Alabama, 98
+Woodstock town (pt.), Alabama, 98
+Amagon town, Arkansas, 98
 Faunsdale town, Alabama, 98
+Fargo town, Arkansas, 98
+Fargo town, Arkansas, 98
 Black Springs town, Arkansas, 99
 Black Springs town, Arkansas, 99
 Beaver town, Arkansas, 100
@@ -27666,12 +27666,12 @@ Beaver town, Arkansas, 100
 Datto town, Arkansas, 100
 Datto town, Arkansas, 100
 St. George city, Alaska, 102
-South Lead Hill town, Arkansas, 102
-St. George city, Alaska, 102
+Port Heiden city, Alaska, 102
 Port Heiden city, Alaska, 102
 South Lead Hill town, Arkansas, 102
 Ash Flat city (pt.), Arkansas, 102
-Port Heiden city, Alaska, 102
+St. George city, Alaska, 102
+South Lead Hill town, Arkansas, 102
 Haleburg town, Alabama, 103
 Zinc town, Arkansas, 103
 Haleburg town, Alabama, 103
@@ -27679,9 +27679,9 @@ Zinc town, Arkansas, 103
 Big Flat town (pt.), Arkansas, 104
 Allakaket city, Alaska, 105
 Hunter town, Arkansas, 105
+Hunter town, Arkansas, 105
 Big Flat town, Arkansas, 105
 Allakaket city, Alaska, 105
-Hunter town, Arkansas, 105
 Leeds city (pt.), Alabama, 106
 Beedeville town, Arkansas, 107
 Beedeville town, Arkansas, 107
@@ -27693,110 +27693,110 @@ Minturn town, Arkansas, 109
 Egegik city, Alaska, 109
 Lester town, Alabama, 111
 Lester town, Alabama, 111
-Egypt town, Arkansas, 112
-Vernon city, California, 112
+Pindall town, Arkansas, 112
 Ridgeville town, Alabama, 112
 Pindall town, Arkansas, 112
 Egypt town, Arkansas, 112
 Vernon city, California, 112
-Pindall town, Arkansas, 112
+Egypt town, Arkansas, 112
+Vernon city, California, 112
 Ridgeville town, Alabama, 112
 St. Paul town, Arkansas, 113
 St. Paul town, Arkansas, 113
 Roe town, Arkansas, 114
 Roe town, Arkansas, 114
-Ekwok city, Alaska, 115
-Daisy town, Arkansas, 115
-Lowndesboro town, Alabama, 115
-Diomede city, Alaska, 115
-Allport town, Arkansas, 115
 Jennette town (pt.), Arkansas, 115
+Ekwok city, Alaska, 115
+Daisy town, Arkansas, 115
+Lowndesboro town, Alabama, 115
+Lowndesboro town, Alabama, 115
 Allport town, Arkansas, 115
+Diomede city, Alaska, 115
+Jennette town, Arkansas, 115
 Daisy town, Arkansas, 115
 Diomede city, Alaska, 115
-Lowndesboro town, Alabama, 115
+Allport town, Arkansas, 115
 Ekwok city, Alaska, 115
-Jennette town, Arkansas, 115
 Delaplaine town, Arkansas, 116
 Delaplaine town, Arkansas, 116
 Bon Air town, Alabama, 116
 Bon Air town, Alabama, 116
-Antoine town, Arkansas, 117
+Libertyville town, Alabama, 117
 Antoine town, Arkansas, 117
 Libertyville town, Alabama, 117
-Libertyville town, Alabama, 117
-Ravenden Springs town, Arkansas, 118
+Antoine town, Arkansas, 117
 Chuathbaluk city, Alaska, 118
 Ravenden Springs town, Arkansas, 118
 Chuathbaluk city, Alaska, 118
+Ravenden Springs town, Arkansas, 118
 Jericho town, Arkansas, 119
 Jericho town, Arkansas, 119
 Gum Springs town, Arkansas, 120
+Higden town, Arkansas, 120
+Higden town, Arkansas, 120
 Gum Springs town, Arkansas, 120
-Higden town, Arkansas, 120
-Higden town, Arkansas, 120
 Deering city, Alaska, 122
 Deering city, Alaska, 122
 Cusseta town, Alabama, 123
 Cusseta town, Alabama, 123
-Bluff City town, Arkansas, 124
 Blue Mountain town, Arkansas, 124
-Bluff City town, Arkansas, 124
 Georgetown town, Arkansas, 124
-Blue Mountain town, Arkansas, 124
+Bluff City town, Arkansas, 124
 Banks town, Arkansas, 124
-Alicia town, Arkansas, 124
+Bluff City town, Arkansas, 124
 Alicia town, Arkansas, 124
 Georgetown town, Arkansas, 124
+Blue Mountain town, Arkansas, 124
+Alicia town, Arkansas, 124
 Banks town, Arkansas, 124
-Eldridge town, Alabama, 130
+Myrtlewood town, Alabama, 130
 Myrtlewood town, Alabama, 130
 Eldridge town, Alabama, 130
-Myrtlewood town, Alabama, 130
+Eldridge town, Alabama, 130
 Tenakee Springs city, Alaska, 131
 Tenakee Springs city, Alaska, 131
+Pine Apple town, Alabama, 132
 Damascus town (pt.), Arkansas, 132
+Pine Apple town, Alabama, 132
 St. Joe town, Arkansas, 132
 St. Joe town, Arkansas, 132
-Pine Apple town, Alabama, 132
-Pine Apple town, Alabama, 132
 Everton town, Arkansas, 133
 Everton town, Arkansas, 133
 Peach Orchard city, Arkansas, 135
 Peach Orchard city, Arkansas, 135
+Toxey town, Alabama, 137
 Pollard town, Alabama, 137
 Moorefield town, Arkansas, 137
-Toxey town, Alabama, 137
-Toxey town, Alabama, 137
 Pollard town, Alabama, 137
+Toxey town, Alabama, 137
+Moorefield town, Arkansas, 137
 Balance of Wade Hampton Census Area, Alaska, 137
-Moorefield town, Arkansas, 137
 Bodcaw town, Arkansas, 138
 Bodcaw town, Arkansas, 138
 Reed town, Arkansas, 141
-Five Points town, Alabama, 141
 Reed town, Arkansas, 141
 Five Points town, Alabama, 141
+Five Points town, Alabama, 141
 Lakeview town, Alabama, 143
 Lakeview town, Alabama, 143
-Billingsley town, Alabama, 144
-Gaylesville town, Alabama, 144
 Millbrook city (pt.), Alabama, 144
 Gaylesville town, Alabama, 144
+Gaylesville town, Alabama, 144
+Billingsley town, Alabama, 144
 Billingsley town, Alabama, 144
 Wales city, Alaska, 145
 North Johns town, Alabama, 145
-Mount Vernon town, Arkansas, 145
 Wales city, Alaska, 145
-Waverly town, Alabama, 145
 Mount Vernon town, Arkansas, 145
-Ben Lomond town, Arkansas, 145
+Waverly town, Alabama, 145
 Ben Lomond town, Arkansas, 145
 North Johns town, Alabama, 145
+Mount Vernon town, Arkansas, 145
+Ben Lomond town, Arkansas, 145
 Okolona town, Arkansas, 147
 Okolona town, Arkansas, 147
-Success town, Arkansas, 149
 Franklin town, Alabama, 149
+Success town, Arkansas, 149
 Success town, Arkansas, 149
 Franklin town, Alabama, 149
 Haynes town, Arkansas, 150
@@ -27805,9 +27805,9 @@ Felsenthal town, Arkansas, 150
 Haynes town, Arkansas, 150
 Kobuk city, Alaska, 151
 Kobuk city, Alaska, 151
-Sedgwick town, Arkansas, 152
 Sedgwick town, Arkansas, 152
 Willisville town, Arkansas, 152
+Sedgwick town, Arkansas, 152
 Willisville town, Arkansas, 152
 Southside city (pt.), Alabama, 155
 Golovin city, Alaska, 156
@@ -27816,15 +27816,15 @@ Chester town, Arkansas, 159
 Chester town, Arkansas, 159
 Gillham town, Arkansas, 160
 Gillham town, Arkansas, 160
-Ouzinkie city, Alaska, 161
+Anthonyville town, Arkansas, 161
 Anthonyville town, Arkansas, 161
 Ouzinkie city, Alaska, 161
-Anthonyville town, Arkansas, 161
+Ouzinkie city, Alaska, 161
 Cave City city (pt.), Arkansas, 162
-Louann town, Arkansas, 164
-Nondalton city, Alaska, 164
 Nondalton city, Alaska, 164
 Louann town, Arkansas, 164
+Louann town, Arkansas, 164
+Nondalton city, Alaska, 164
 Ruby city, Alaska, 166
 Talladega Springs town, Alabama, 166
 Talladega Springs town, Alabama, 166
@@ -27834,38 +27834,38 @@ Winchester town, Arkansas, 167
 Omaha town, Arkansas, 169
 Omaha town, Arkansas, 169
 Ulm town, Arkansas, 170
-Aubrey town, Arkansas, 170
-Geiger town, Alabama, 170
-Geiger town, Alabama, 170
 Ulm town, Arkansas, 170
 Aubrey town, Arkansas, 170
+Geiger town, Alabama, 170
+Geiger town, Alabama, 170
+Aubrey town, Arkansas, 170
 Casa town, Arkansas, 171
 Casa town, Arkansas, 171
 Fifty-Six city, Arkansas, 173
 Houston town, Arkansas, 173
+Fifty-Six city, Arkansas, 173
+Bassett town, Arkansas, 173
 Bassett town, Arkansas, 173
 Houston town, Arkansas, 173
-Bassett town, Arkansas, 173
-Fifty-Six city, Arkansas, 173
 Fountain Hill town, Arkansas, 175
 Fountain Hill town, Arkansas, 175
-Coffman Cove city, Alaska, 176
-Coffman Cove city, Alaska, 176
 Friendship town, Arkansas, 176
+Coffman Cove city, Alaska, 176
+Gu-Win town, Alabama, 176
 Gu-Win town (pt.), Alabama, 176
 Friendship town, Arkansas, 176
-Gu-Win town, Alabama, 176
+Coffman Cove city, Alaska, 176
 Holy Cross city, Alaska, 178
 Holy Cross city, Alaska, 178
 Banks town, Alabama, 179
 Banks town, Alabama, 179
+Loachapoka town, Alabama, 180
 Ogden city, Arkansas, 180
-Loachapoka town, Alabama, 180
 Washington city, Arkansas, 180
 Washington city, Arkansas, 180
 Loachapoka town, Alabama, 180
+Ogden city, Arkansas, 180
 Tupelo town, Arkansas, 180
-Ogden city, Arkansas, 180
 Tupelo town, Arkansas, 180
 Sidney town, Arkansas, 181
 Sidney town, Arkansas, 181
@@ -27874,8 +27874,8 @@ Fairfield Bay city (pt.), Arkansas, 183
 Valley Springs town, Arkansas, 183
 Woodland town, Alabama, 184
 Woodland town, Alabama, 184
-Riverview town, Alabama, 184
 Onycha town, Alabama, 184
+Riverview town, Alabama, 184
 Riverview town, Alabama, 184
 Onycha town, Alabama, 184
 Amador City city, California, 185
@@ -27883,72 +27883,72 @@ West Point town, Arkansas, 185
 West Point town, Arkansas, 185
 Amador City city, California, 185
 McDougal town, Arkansas, 186
+Newbern town, Alabama, 186
 McDougal town, Arkansas, 186
 Newbern town, Alabama, 186
-Newbern town, Alabama, 186
-Nunam Iqua city, Alaska, 187
+Glenwood town, Alabama, 187
 Nunam Iqua city, Alaska, 187
 Glenwood town, Alabama, 187
-Glenwood town, Alabama, 187
-Yellow Bluff town, Alabama, 188
+Nunam Iqua city, Alaska, 187
 Yellow Bluff town, Alabama, 188
 Gilmore city, Arkansas, 188
 Gilmore city, Arkansas, 188
+Yellow Bluff town, Alabama, 188
 White Mountain city, Alaska, 190
-White Mountain city, Alaska, 190
-Newhalen city, Alaska, 190
-Kaltag city, Alaska, 190
 Kaltag city, Alaska, 190
 Newhalen city, Alaska, 190
-Burdette town, Arkansas, 191
+Newhalen city, Alaska, 190
+White Mountain city, Alaska, 190
+Kaltag city, Alaska, 190
 Burdette town, Arkansas, 191
 Mekoryuk city, Alaska, 191
+Burdette town, Arkansas, 191
 Mekoryuk city, Alaska, 191
 Epes town, Alabama, 192
+Winthrop city, Arkansas, 192
 Epes town, Alabama, 192
 Winthrop city, Arkansas, 192
-Winthrop city, Arkansas, 192
-Grayling city, Alaska, 194
 Port Lions city, Alaska, 194
-Grayling city, Alaska, 194
 Port Lions city, Alaska, 194
 O'Kean town, Arkansas, 194
+Grayling city, Alaska, 194
 O'Kean town, Arkansas, 194
+Grayling city, Alaska, 194
 County Line town (pt.), Alabama, 197
 Sunset town, Arkansas, 198
-Balance of Nome Census Area, Alaska, 198
 Rondo town, Arkansas, 198
+Balance of Nome Census Area, Alaska, 198
 Sunset town, Arkansas, 198
 Rondo town, Arkansas, 198
 Franklin town, Arkansas, 198
 Franklin town, Arkansas, 198
-Beaverton town, Alabama, 201
 Fulton town, Arkansas, 201
 Beaverton town, Alabama, 201
 Fulton town, Arkansas, 201
+Beaverton town, Alabama, 201
+Magness town, Arkansas, 202
+Ratcliff city, Arkansas, 202
 Magness town, Arkansas, 202
 Edwardsville town, Alabama, 202
 Ratcliff city, Arkansas, 202
-Ratcliff city, Arkansas, 202
-Magness town, Arkansas, 202
 Edwardsville town, Alabama, 202
 Waterloo town, Alabama, 203
 Waterloo town, Alabama, 203
-Orrville town, Alabama, 204
 Tillar city (pt.), Arkansas, 204
 Orrville town, Alabama, 204
+Orrville town, Alabama, 204
 Black town, Alabama, 207
 Black town, Alabama, 207
 Gainesville town, Alabama, 208
 Gainesville town, Alabama, 208
-Greenway city, Arkansas, 209
 Adona city, Arkansas, 209
+Greenway city, Arkansas, 209
 Greenway city, Arkansas, 209
 Adona city, Arkansas, 209
 Upper Kalskag city, Alaska, 210
-Paint Rock town, Alabama, 210
-Paint Rock town, Alabama, 210
 Upper Kalskag city, Alaska, 210
+Paint Rock town, Alabama, 210
+Paint Rock town, Alabama, 210
 Watson city, Arkansas, 211
 Watson city, Arkansas, 211
 Jacksonport town, Arkansas, 212
@@ -27957,52 +27957,52 @@ Caulksville town, Arkansas, 213
 Caulksville town, Arkansas, 213
 Daviston town, Alabama, 214
 Daviston town, Alabama, 214
-Gilbertown town, Alabama, 215
+Belk town, Alabama, 215
 Belk town, Alabama, 215
 Gilbertown town, Alabama, 215
-Belk town, Alabama, 215
-Russell town, Arkansas, 216
+Gilbertown town, Alabama, 215
 Moro town, Arkansas, 216
 Russell town, Arkansas, 216
+Russell town, Arkansas, 216
 Moro town, Arkansas, 216
+Kellyton town, Alabama, 217
+Kellyton town, Alabama, 217
 Balance of Aleutians West Census Area, Alaska, 217
-Kellyton town, Alabama, 217
-Kellyton town, Alabama, 217
 Old Harbor city, Alaska, 218
 Old Harbor city, Alaska, 218
-Industry city, California, 219
-Industry city, California, 219
 Aleknagik city, Alaska, 219
 Aleknagik city, Alaska, 219
+Industry city, California, 219
+Industry city, California, 219
 Nauvoo town (pt.), Alabama, 220
 Whittier city, Alaska, 220
 Whittier city, Alaska, 220
-Pennington town, Alabama, 221
+Pyatt town, Arkansas, 221
+Pyatt town, Arkansas, 221
 Nauvoo town, Alabama, 221
-Pyatt town, Arkansas, 221
-Pyatt town, Arkansas, 221
 Pennington town, Alabama, 221
-Gantt town, Alabama, 222
-Gantt town, Alabama, 222
+Pennington town, Alabama, 221
 Pollard city, Arkansas, 222
 Pollard city, Arkansas, 222
-Dell town, Arkansas, 223
-Dell town, Arkansas, 223
+Gantt town, Alabama, 222
+Gantt town, Alabama, 222
 Fisher city, Arkansas, 223
+Dell town, Arkansas, 223
+Dell town, Arkansas, 223
 Providence town, Alabama, 223
 Providence town, Alabama, 223
 Fisher city, Arkansas, 223
 Scranton city, Arkansas, 224
 Scranton city, Arkansas, 224
-Griffithville town, Arkansas, 225
 Griffithville town, Arkansas, 225
 Tillar city, Arkansas, 225
+Griffithville town, Arkansas, 225
 Kansas town, Alabama, 226
 Kansas town, Alabama, 226
 Coffee Springs town, Alabama, 228
-Horn Hill town, Alabama, 228
-Horn Hill town, Alabama, 228
 Coffee Springs town, Alabama, 228
+Horn Hill town, Alabama, 228
+Horn Hill town, Alabama, 228
 Teller city, Alaska, 229
 Teller city, Alaska, 229
 St. Charles town, Arkansas, 230
@@ -28012,16 +28012,16 @@ Oden town, Arkansas, 232
 Oden town, Arkansas, 232
 Atqasuk city, Alaska, 233
 Atqasuk city, Alaska, 233
+Briarcliff city, Arkansas, 236
+Briarcliff city, Arkansas, 236
 Alexander city (pt.), Arkansas, 236
-Briarcliff city, Arkansas, 236
-Briarcliff city, Arkansas, 236
-Union town, Alabama, 237
 Detroit town, Alabama, 237
 Detroit town, Alabama, 237
 Union town, Alabama, 237
+Union town, Alabama, 237
+Pineville town, Arkansas, 238
+Pineville town, Arkansas, 238
 McIntosh town, Alabama, 238
-Pineville town, Arkansas, 238
-Pineville town, Arkansas, 238
 McIntosh town, Alabama, 238
 Kaktovik city, Alaska, 239
 Kaktovik city, Alaska, 239
@@ -28029,18 +28029,18 @@ Tollette town, Arkansas, 240
 Tollette town, Arkansas, 240
 Perla town, Arkansas, 241
 Sanford town, Alabama, 241
-Perla town, Arkansas, 241
 Sanford town, Alabama, 241
+Perla town, Arkansas, 241
 Garland town, Arkansas, 242
 Garland town, Arkansas, 242
 Goodnews Bay city, Alaska, 243
 Goodnews Bay city, Alaska, 243
 Concord town, Arkansas, 244
 Concord town, Arkansas, 244
-Anderson city, Alaska, 246
-Tanana city, Alaska, 246
 Tanana city, Alaska, 246
 Anderson city, Alaska, 246
+Anderson city, Alaska, 246
+Tanana city, Alaska, 246
 Humphrey city (pt.), Arkansas, 249
 Damascus town (pt.), Arkansas, 250
 St. Francis city, Arkansas, 250
@@ -28048,31 +28048,31 @@ St. Francis city, Arkansas, 250
 Shaktoolik city, Alaska, 251
 Shaktoolik city, Alaska, 251
 Heath town, Alabama, 254
-Harrell town, Arkansas, 254
 Heath town, Alabama, 254
 Harrell town, Arkansas, 254
-Campbell Station city, Arkansas, 255
-Wabbaseka town, Arkansas, 255
-Wabbaseka town, Arkansas, 255
-Letona town, Arkansas, 255
+Harrell town, Arkansas, 254
+Seldovia city, Alaska, 255
 Campbell Station city, Arkansas, 255
 Seldovia city, Alaska, 255
-Seldovia city, Alaska, 255
+Campbell Station city, Arkansas, 255
 Letona town, Arkansas, 255
+Letona town, Arkansas, 255
+Wabbaseka town, Arkansas, 255
+Wabbaseka town, Arkansas, 255
 Keo town, Arkansas, 256
 Keo town, Arkansas, 256
-Ambler city, Alaska, 258
-Ambler city, Alaska, 258
-Sweet Water town, Alabama, 258
 Sweet Water town, Alabama, 258
 County Line town, Alabama, 258
+Ambler city, Alaska, 258
+Ambler city, Alaska, 258
+Sweet Water town, Alabama, 258
 Oil Trough town, Arkansas, 260
 Oil Trough town, Arkansas, 260
 Rosston town, Arkansas, 261
 Rosston town, Arkansas, 261
-Black Oak town, Arkansas, 262
 Black Oak town, Arkansas, 262
 Shungnak city, Alaska, 262
+Black Oak town, Arkansas, 262
 Shungnak city, Alaska, 262
 Nulato city, Alaska, 264
 Nulato city, Alaska, 264
@@ -28080,62 +28080,62 @@ Goshen town, Alabama, 266
 Goshen town, Alabama, 266
 Colony town, Alabama, 268
 Colony town, Alabama, 268
-Perry town, Arkansas, 270
+Langston town, Alabama, 270
 Perry town, Arkansas, 270
 Langston town, Alabama, 270
+Perry town, Arkansas, 270
 Balance of Hoonah-Angoon Census Area, Alaska, 270
-Langston town, Alabama, 270
 Lead Hill town, Arkansas, 271
 Lead Hill town, Arkansas, 271
+Hickory Ridge city, Arkansas, 272
+Perrytown town, Arkansas, 272
 Fulton town, Alabama, 272
-Perrytown town, Arkansas, 272
 Hickory Ridge city, Arkansas, 272
 Perrytown town, Arkansas, 272
-Hickory Ridge city, Arkansas, 272
 Fulton town, Alabama, 272
 Widener town, Arkansas, 273
 Widener town, Arkansas, 273
 Shiloh town, Alabama, 274
 Shiloh town, Alabama, 274
-Buckner city, Arkansas, 275
-Buckner city, Arkansas, 275
 Huslia city, Alaska, 275
+Buckner city, Arkansas, 275
+Buckner city, Arkansas, 275
 Huslia city, Alaska, 275
 Parkdale city, Arkansas, 277
 Parkdale city, Arkansas, 277
 Bakerhill town, Alabama, 279
-Delight city, Arkansas, 279
-Delight city, Arkansas, 279
 Bakerhill town, Alabama, 279
+Delight city, Arkansas, 279
+Delight city, Arkansas, 279
 Nightmute city, Alaska, 280
 Nightmute city, Alaska, 280
-Lower Kalskag city, Alaska, 282
-Anderson town, Alabama, 282
+Pine Ridge town, Alabama, 282
 Pine Ridge town, Alabama, 282
 Repton town, Alabama, 282
-Pine Ridge town, Alabama, 282
-Anderson town, Alabama, 282
-Repton town, Alabama, 282
 Lower Kalskag city, Alaska, 282
-Waldo town, Alabama, 283
+Repton town, Alabama, 282
+Anderson town, Alabama, 282
+Anderson town, Alabama, 282
+Lower Kalskag city, Alaska, 282
 Almyra town, Arkansas, 283
 Waldo town, Alabama, 283
 Almyra town, Arkansas, 283
-Garner town, Arkansas, 284
+Waldo town, Alabama, 283
+Humnoke city, Arkansas, 284
 Garner town, Arkansas, 284
 Fruithurst town, Alabama, 284
+Humnoke city, Arkansas, 284
 Fruithurst town, Alabama, 284
-Humnoke city, Arkansas, 284
-Humnoke city, Arkansas, 284
+Garner town, Arkansas, 284
 Lexa town, Arkansas, 286
 Lexa town, Arkansas, 286
 Knobel city, Arkansas, 287
 Chidester city, Arkansas, 287
-Knobel city, Arkansas, 287
 Chidester city, Arkansas, 287
-Lynn town, Arkansas, 288
-Lynn town, Arkansas, 288
+Knobel city, Arkansas, 287
 Hodges town, Alabama, 288
+Lynn town, Arkansas, 288
+Lynn town, Arkansas, 288
 Hodges town, Alabama, 288
 Poyen town, Arkansas, 290
 Poyen town, Arkansas, 290
@@ -28152,24 +28152,24 @@ Donaldson town, Arkansas, 301
 Beatrice town, Alabama, 301
 Donaldson town, Arkansas, 301
 Beatrice town, Alabama, 301
-Menifee town, Arkansas, 302
+Strawberry town, Arkansas, 302
 Menifee town, Arkansas, 302
 Strawberry town, Arkansas, 302
-Strawberry town, Arkansas, 302
+Menifee town, Arkansas, 302
 Prattsville town, Arkansas, 305
 Prattsville town, Arkansas, 305
 Humphrey city (pt.), Arkansas, 308
 Russian Mission city, Alaska, 312
+Vredenburgh town, Alabama, 312
 Russian Mission city, Alaska, 312
 Vredenburgh town, Alabama, 312
-Vredenburgh town, Alabama, 312
 Denning town, Arkansas, 314
 Denning town, Arkansas, 314
+Bigelow town, Arkansas, 315
+Blevins city, Arkansas, 315
+Blevins city, Arkansas, 315
+Bigelow town, Arkansas, 315
 Dutton town, Alabama, 315
-Bigelow town, Arkansas, 315
-Blevins city, Arkansas, 315
-Bigelow town, Arkansas, 315
-Blevins city, Arkansas, 315
 Dutton town, Alabama, 315
 Rosa town, Alabama, 316
 Rosa town, Alabama, 316
@@ -28178,10 +28178,10 @@ Anaktuvuk Pass city, Alaska, 324
 Anaktuvuk Pass city, Alaska, 324
 Midland town, Arkansas, 325
 Midland town, Arkansas, 325
-Adak city, Alaska, 326
-Gordonville town, Alabama, 326
 Gordonville town, Alabama, 326
 Adak city, Alaska, 326
+Adak city, Alaska, 326
+Gordonville town, Alabama, 326
 Boligee town, Alabama, 328
 Boligee town, Alabama, 328
 Dozier town, Alabama, 329
@@ -28199,9 +28199,9 @@ Twin Groves town, Arkansas, 335
 Viola town, Arkansas, 337
 Viola town, Arkansas, 337
 West Jefferson town, Alabama, 338
-Enola town, Arkansas, 338
-Enola town, Arkansas, 338
 West Jefferson town, Alabama, 338
+Enola town, Arkansas, 338
+Enola town, Arkansas, 338
 Cash town, Arkansas, 342
 Cash town, Arkansas, 342
 Carthage city, Arkansas, 343
@@ -28209,9 +28209,9 @@ Carthage city, Arkansas, 343
 Nectar town, Alabama, 345
 Nectar town, Alabama, 345
 Akiak city, Alaska, 346
-McGrath city, Alaska, 346
+Akiak city, Alaska, 346
 Cuba town, Alabama, 346
-Akiak city, Alaska, 346
+McGrath city, Alaska, 346
 McGrath city, Alaska, 346
 Cuba town, Alabama, 346
 Biggers town, Arkansas, 347
@@ -28225,14 +28225,14 @@ Etowah town, Arkansas, 351
 Coffeeville town, Alabama, 352
 Coffeeville town, Alabama, 352
 Winkelman town (pt.), Arizona, 353
-Balance of Dillingham Census Area, Alaska, 353
 Winkelman town, Arizona, 353
-Montrose city, Arkansas, 354
+Balance of Dillingham Census Area, Alaska, 353
+Napakiak city, Alaska, 354
 Napier Field town, Alabama, 354
-Hytop town, Alabama, 354
 Montrose city, Arkansas, 354
 Napakiak city, Alaska, 354
-Napakiak city, Alaska, 354
+Montrose city, Arkansas, 354
+Hytop town, Alabama, 354
 Napier Field town, Alabama, 354
 Hytop town, Alabama, 354
 Wheatley city, Arkansas, 355
@@ -28244,9 +28244,9 @@ Arley town, Alabama, 357
 Vina town, Alabama, 358
 Vina town, Alabama, 358
 Mentone town, Alabama, 360
+Mitchellville city, Arkansas, 360
+Mitchellville city, Arkansas, 360
 Mentone town, Alabama, 360
-Mitchellville city, Arkansas, 360
-Mitchellville city, Arkansas, 360
 Kiana city, Alaska, 361
 Kiana city, Alaska, 361
 Fredonia (Biscoe) town, Arkansas, 363
@@ -28264,19 +28264,19 @@ Oak Grove town, Arkansas, 369
 Clarkedale city, Arkansas, 371
 Clarkedale city, Arkansas, 371
 Wilton city, Arkansas, 374
-Kivalina city, Alaska, 374
-Kivalina city, Alaska, 374
 Wilton city, Arkansas, 374
+Kivalina city, Alaska, 374
+Kivalina city, Alaska, 374
 Havana city, Arkansas, 375
 Havana city, Arkansas, 375
 Hydaburg city, Alaska, 376
 Hydaburg city, Alaska, 376
-Norman town, Arkansas, 378
+Nenana city, Alaska, 378
+Colt city, Arkansas, 378
 Colt city, Arkansas, 378
 Norman town, Arkansas, 378
 Nenana city, Alaska, 378
-Colt city, Arkansas, 378
-Nenana city, Alaska, 378
+Norman town, Arkansas, 378
 Cove town, Arkansas, 382
 Damascus town, Arkansas, 382
 Cove town, Arkansas, 382
@@ -28299,9 +28299,9 @@ St. Michael city, Alaska, 401
 St. Michael city, Alaska, 401
 Nuiqsut city, Alaska, 402
 Nuiqsut city, Alaska, 402
-Gateway town, Arkansas, 405
-Gateway town, Arkansas, 405
 Napaskiak city, Alaska, 405
+Gateway town, Arkansas, 405
+Gateway town, Arkansas, 405
 Napaskiak city, Alaska, 405
 Thornton city, Arkansas, 407
 Thornton city, Arkansas, 407
@@ -28315,29 +28315,29 @@ Highland Lake town, Alabama, 412
 Highland Lake town, Alabama, 412
 St. Florian town, Alabama, 413
 Hatfield town, Arkansas, 413
-Hatfield town, Arkansas, 413
 St. Florian town, Alabama, 413
+Hatfield town, Arkansas, 413
 Marshall city, Alaska, 414
 Mount Pleasant town, Arkansas, 414
-Marshall city, Alaska, 414
 Mount Pleasant town, Arkansas, 414
+Marshall city, Alaska, 414
 Buckland city, Alaska, 416
 Buckland city, Alaska, 416
 Mansfield city (pt.), Arkansas, 416
 Thomaston town, Alabama, 417
 Thomaston town, Alabama, 417
-Tehama city, California, 418
-Chefornak city, Alaska, 418
 Chefornak city, Alaska, 418
 Tehama city, California, 418
+Tehama city, California, 418
+Chefornak city, Alaska, 418
 Pleasant Groves town, Alabama, 420
 Pleasant Groves town, Alabama, 420
 Enterprise city (pt.), Alabama, 423
 Maynard town, Arkansas, 426
 Maynard town, Arkansas, 426
-Sparkman city, Arkansas, 427
-Sparkman city, Arkansas, 427
 Edmondson town, Arkansas, 427
+Sparkman city, Arkansas, 427
+Sparkman city, Arkansas, 427
 Edmondson town, Arkansas, 427
 Portland city, Arkansas, 430
 Portland city, Arkansas, 430
@@ -28345,10 +28345,10 @@ Evening Shade city, Arkansas, 432
 Evening Shade city, Arkansas, 432
 Elkmont town, Alabama, 434
 Elkmont town, Alabama, 434
-Sipsey town, Alabama, 437
+Portia town, Arkansas, 437
 Portia town, Arkansas, 437
 Sipsey town, Alabama, 437
-Portia town, Arkansas, 437
+Sipsey town, Alabama, 437
 Bergman town, Arkansas, 439
 Bergman town, Arkansas, 439
 Leslie city, Arkansas, 441
@@ -28356,38 +28356,38 @@ Leslie city, Arkansas, 441
 Belleville city, Arkansas, 441
 Belleville city, Arkansas, 441
 Gustavus city, Alaska, 442
+Manokotak city, Alaska, 442
+Manokotak city, Alaska, 442
 Gustavus city, Alaska, 442
-Manokotak city, Alaska, 442
-Manokotak city, Alaska, 442
 Lake View city, Arkansas, 443
 Lake View city, Arkansas, 443
-Hayden town, Alabama, 444
+Jerome town, Arizona, 444
 Jerome town, Arizona, 444
 Hayden town, Alabama, 444
-Jerome town, Arizona, 444
+Hayden town, Alabama, 444
 Fairview town, Alabama, 446
 Fairview town, Alabama, 446
-Kennedy town, Alabama, 447
 Kingsland city, Arkansas, 447
 Kennedy town, Alabama, 447
 Kingsland city, Arkansas, 447
+Kennedy town, Alabama, 447
 Tull town, Arkansas, 448
 Tull town, Arkansas, 448
+Point Arena city, California, 449
 Grady city, Arkansas, 449
 Point Arena city, California, 449
-Point Arena city, California, 449
+Grady city, Arkansas, 449
 Queen Creek town (pt.), Arizona, 449
-Grady city, Arkansas, 449
-Hector town, Arkansas, 450
 Hector town, Arkansas, 450
 Salesville city, Arkansas, 450
+Hector town, Arkansas, 450
 Salesville city, Arkansas, 450
 Cushman city, Arkansas, 452
 Patterson city, Arkansas, 452
-Cushman city, Arkansas, 452
-Silas town, Alabama, 452
 Patterson city, Arkansas, 452
 Silas town, Alabama, 452
+Silas town, Alabama, 452
+Cushman city, Arkansas, 452
 Bellefonte town, Arkansas, 454
 Bellefonte town, Arkansas, 454
 College City city, Arkansas, 455
@@ -28405,36 +28405,36 @@ Jasper city, Arkansas, 466
 Jasper city, Arkansas, 466
 Rutledge town, Alabama, 467
 Rutledge town, Alabama, 467
-Galena city, Alaska, 470
 Ravenden town, Arkansas, 470
 Galena city, Alaska, 470
 Ravenden town, Arkansas, 470
+Galena city, Alaska, 470
 Thorne Bay city, Alaska, 471
 Thorne Bay city, Alaska, 471
 Scammon Bay city, Alaska, 474
 Shorter town, Alabama, 474
-Scammon Bay city, Alaska, 474
 Shorter town, Alabama, 474
+Scammon Bay city, Alaska, 474
 Emmet city (pt.), Arkansas, 475
 Rockford town, Alabama, 477
 Rockford town, Alabama, 477
 Crawfordsville town, Arkansas, 479
 St. Paul city, Alaska, 479
-St. Paul city, Alaska, 479
 Crawfordsville town, Arkansas, 479
+St. Paul city, Alaska, 479
 Rose Bud town, Arkansas, 482
 Rose Bud town, Arkansas, 482
 Trussville city (pt.), Alabama, 483
-Red Level town, Alabama, 487
 Bauxite town, Arkansas, 487
 Bauxite town, Arkansas, 487
 Red Level town, Alabama, 487
+Red Level town, Alabama, 487
 Hammondville town, Alabama, 488
 Avoca town, Arkansas, 488
-Hammondville town, Alabama, 488
 Avoca town, Arkansas, 488
-Garden City town (pt.), Alabama, 492
+Hammondville town, Alabama, 488
 Garden City town, Alabama, 492
+Garden City town (pt.), Alabama, 492
 Calion city, Arkansas, 494
 Calion city, Arkansas, 494
 Nunapitchuk city, Alaska, 496
@@ -28448,22 +28448,22 @@ Leola town, Arkansas, 501
 Aniak city, Alaska, 501
 Leola town, Arkansas, 501
 Central City town, Arkansas, 502
+Garfield town, Arkansas, 502
+Garfield town, Arkansas, 502
 Central City town, Arkansas, 502
-Garfield town, Arkansas, 502
-Garfield town, Arkansas, 502
 Fountain Lake town, Arkansas, 503
 Fountain Lake town, Arkansas, 503
 St. Mary's city, Alaska, 507
 St. Mary's city, Alaska, 507
-New Stuyahok city, Alaska, 510
-New Stuyahok city, Alaska, 510
 Glen Allen town, Alabama, 510
-Wilmar city, Arkansas, 511
-Wilmar city, Arkansas, 511
+New Stuyahok city, Alaska, 510
+New Stuyahok city, Alaska, 510
+Sulphur Springs city, Arkansas, 511
 Sulphur Springs city, Arkansas, 511
 Norfork city, Arkansas, 511
+Wilmar city, Arkansas, 511
 Norfork city, Arkansas, 511
-Sulphur Springs city, Arkansas, 511
+Wilmar city, Arkansas, 511
 McNeil city, Arkansas, 516
 McNeil city, Arkansas, 516
 Lockhart town, Alabama, 516
@@ -28472,10 +28472,10 @@ Emmet city, Arkansas, 518
 Traskwood city, Arkansas, 518
 Traskwood city, Arkansas, 518
 Hartman city, Arkansas, 519
-Louisville town, Alabama, 519
 Eva town, Alabama, 519
 Louisville town, Alabama, 519
 Hartman city, Arkansas, 519
+Louisville town, Alabama, 519
 Eva town, Alabama, 519
 McKenzie town (pt.), Alabama, 522
 River Falls town, Alabama, 526
@@ -28484,10 +28484,10 @@ Oak Grove town, Alabama, 528
 Oak Grove town, Alabama, 528
 McKenzie town, Alabama, 530
 Sand Rock town (pt.), Alabama, 537
-Newville town, Alabama, 539
 Lisman town, Alabama, 539
 Newville town, Alabama, 539
 Lisman town, Alabama, 539
+Newville town, Alabama, 539
 Kinston town, Alabama, 540
 Kinston town, Alabama, 540
 Avon town, Alabama, 543
@@ -28504,18 +28504,18 @@ Grannis city, Arkansas, 554
 Grannis city, Arkansas, 554
 Caldwell town, Arkansas, 555
 Caldwell town, Arkansas, 555
-Stebbins city, Alaska, 556
 Wainwright city, Alaska, 556
 Wainwright city, Alaska, 556
 Stebbins city, Alaska, 556
+Stebbins city, Alaska, 556
+Kake city, Alaska, 557
 Kake city, Alaska, 557
 Holland city, Arkansas, 557
-Kake city, Alaska, 557
 Holland city, Arkansas, 557
 Humphrey city, Arkansas, 557
+Strong city, Arkansas, 558
 Grimes town, Alabama, 558
 Valley Head town, Alabama, 558
-Strong city, Arkansas, 558
 Grimes town, Alabama, 558
 Valley Head town, Alabama, 558
 Strong city, Arkansas, 558
@@ -28534,16 +28534,16 @@ Joiner city, Arkansas, 576
 Joiner city, Arkansas, 576
 Kotlik city, Alaska, 577
 Kotlik city, Alaska, 577
-Perdido Beach town, Alabama, 581
 Junction City city, Arkansas, 581
 Perdido Beach town, Alabama, 581
 Junction City city, Arkansas, 581
-Castleberry town, Alabama, 583
+Perdido Beach town, Alabama, 581
+Fort Yukon city, Alaska, 583
 Fort Yukon city, Alaska, 583
 Highfill town, Arkansas, 583
-Castleberry town, Alabama, 583
-Fort Yukon city, Alaska, 583
 Highfill town, Arkansas, 583
+Castleberry town, Alabama, 583
+Castleberry town, Alabama, 583
 West Point town, Alabama, 586
 West Point town, Alabama, 586
 Clayhatchee town, Alabama, 589
@@ -28562,10 +28562,10 @@ Babbie town, Alabama, 603
 Babbie town, Alabama, 603
 Summit city, Arkansas, 604
 Summit city, Arkansas, 604
-Pickensville town, Alabama, 608
+Plainview city, Arkansas, 608
 Pickensville town, Alabama, 608
 Plainview city, Arkansas, 608
-Plainview city, Arkansas, 608
+Pickensville town, Alabama, 608
 Courtland town, Alabama, 609
 Courtland town, Alabama, 609
 Baileyton town, Alabama, 610
@@ -28585,19 +28585,19 @@ Mountainburg city, Arkansas, 631
 North Courtland town, Alabama, 632
 North Courtland town, Alabama, 632
 Caddo Valley town, Arkansas, 635
+Huntington city, Arkansas, 635
+Huntington city, Arkansas, 635
 Caddo Valley town, Arkansas, 635
-Huntington city, Arkansas, 635
-Huntington city, Arkansas, 635
 Elaine city, Arkansas, 636
 Elaine city, Arkansas, 636
 Hartford city, Arkansas, 642
 Hartford city, Arkansas, 642
-Trafford town (pt.), Alabama, 646
 Trafford town, Alabama, 646
+Trafford town (pt.), Alabama, 646
 Pinckard town, Alabama, 647
 Pinckard town, Alabama, 647
-Forkland town, Alabama, 649
 Cotton Plant city, Arkansas, 649
+Forkland town, Alabama, 649
 Forkland town, Alabama, 649
 Cotton Plant city, Arkansas, 649
 Cherry Valley city, Arkansas, 651
@@ -28606,10 +28606,10 @@ Reece City town, Alabama, 653
 Reece City town, Alabama, 653
 Lynn town, Alabama, 659
 Lynn town, Alabama, 659
-Hayden town, Arizona, 662
+Black Rock city, Arkansas, 662
 Hayden town (pt.), Arizona, 662
 Yakutat City and Borough, Alaska, 662
-Black Rock city, Arkansas, 662
+Hayden town, Arizona, 662
 Black Rock city, Arkansas, 662
 Noorvik city, Alaska, 668
 Noorvik city, Alaska, 668
@@ -28621,14 +28621,14 @@ Savoonga city, Alaska, 671
 Savoonga city, Alaska, 671
 Point Hope city, Alaska, 674
 Point Hope city, Alaska, 674
-Imboden town, Arkansas, 677
 Alakanuk city, Alaska, 677
 Imboden town, Arkansas, 677
 Alakanuk city, Alaska, 677
+Imboden town, Arkansas, 677
 Palestine city, Arkansas, 681
 Gambell city, Alaska, 681
-Gambell city, Alaska, 681
 Palestine city, Arkansas, 681
+Gambell city, Alaska, 681
 McRae city, Arkansas, 682
 McRae city, Arkansas, 682
 Wilton town, Alabama, 687
@@ -28644,25 +28644,25 @@ Walnut Grove town, Alabama, 698
 Silverhill town, Alabama, 706
 Silverhill town, Alabama, 706
 Guy city, Arkansas, 708
-Maplesville town, Alabama, 708
 Guy city, Arkansas, 708
 Maplesville town, Alabama, 708
+Maplesville town, Alabama, 708
 Weiner city, Arkansas, 716
 Weiner city, Arkansas, 716
 Kwethluk city, Alaska, 721
 Kwethluk city, Alaska, 721
-Pisgah town, Alabama, 722
 Moundville town (pt.), Alabama, 722
 Pisgah town, Alabama, 722
+Pisgah town, Alabama, 722
 Magnolia Springs town, Alabama, 723
 Ider town, Alabama, 723
-Amity city, Arkansas, 723
+Ider town, Alabama, 723
 Excel town, Alabama, 723
 Magnolia Springs town, Alabama, 723
-Ider town, Alabama, 723
+Amity city, Arkansas, 723
+Excel town, Alabama, 723
 Mansfield city (pt.), Arkansas, 723
 Amity city, Arkansas, 723
-Excel town, Alabama, 723
 Somerville town, Alabama, 724
 Somerville town, Alabama, 724
 Leighton town, Alabama, 729
@@ -28695,30 +28695,30 @@ Rockport city, Arkansas, 755
 Klawock city, Alaska, 755
 Rockport city, Arkansas, 755
 Klawock city, Alaska, 755
-Altus city, Arkansas, 758
 Addison town, Alabama, 758
 Addison town, Alabama, 758
 Altus city, Arkansas, 758
+Altus city, Arkansas, 758
+Bradford city, Arkansas, 759
 Keiser city, Arkansas, 759
 Keiser city, Arkansas, 759
 Bradford city, Arkansas, 759
-Bradford city, Arkansas, 759
 Hoonah city, Alaska, 760
 Hoonah city, Alaska, 760
+Emmonak city, Alaska, 762
+Emmonak city, Alaska, 762
 Tyronza city, Arkansas, 762
 Quitman city, Arkansas, 762
-Emmonak city, Alaska, 762
 Tyronza city, Arkansas, 762
-Emmonak city, Alaska, 762
 Susan Moore town, Alabama, 763
 Susan Moore town, Alabama, 763
 Ariton town, Alabama, 764
 Ariton town, Alabama, 764
 Cammack Village city, Arkansas, 768
 Cammack Village city, Arkansas, 768
+Madison city, Arkansas, 769
 Madison city, Arkansas, 769
 Loyalton city, California, 769
-Madison city, Arkansas, 769
 Loyalton city, California, 769
 Mountain Pine city, Arkansas, 770
 Mountain Pine city, Arkansas, 770
@@ -28739,8 +28739,8 @@ Oakman town, Alabama, 789
 Cherokee Village city (pt.), Arkansas, 793
 Swifton city, Arkansas, 798
 Holly Pond town, Alabama, 798
-Holly Pond town, Alabama, 798
 Swifton city, Arkansas, 798
+Holly Pond town, Alabama, 798
 Gurley town, Alabama, 801
 Gurley town, Alabama, 801
 Isleton city, California, 804
@@ -28794,19 +28794,19 @@ Dothan city (pt.), Alabama, 887
 Oak Grove Heights town, Arkansas, 889
 Oak Grove Heights town, Arkansas, 889
 Notasulga town (pt.), Alabama, 890
-Greers Ferry city, Arkansas, 891
 Stephens city, Arkansas, 891
 Greers Ferry city, Arkansas, 891
+Greers Ferry city, Arkansas, 891
 Stephens city, Arkansas, 891
-Grant town, Alabama, 896
 Geraldine town, Alabama, 896
 Geraldine town, Alabama, 896
 Grant town, Alabama, 896
+Grant town, Alabama, 896
 Brilliant town, Alabama, 900
 Brilliant town, Alabama, 900
-Wilson city, Arkansas, 903
-Wilson city, Arkansas, 903
 Altoona town (pt.), Alabama, 903
+Wilson city, Arkansas, 903
+Wilson city, Arkansas, 903
 Balance of Lake and Peninsula Borough, Alaska, 907
 Patagonia town, Arizona, 913
 Patagonia town, Arizona, 913
@@ -28855,10 +28855,10 @@ Plymouth city, California, 1005
 Plymouth city, California, 1005
 Tulelake city, California, 1010
 Tulelake city, California, 1010
-Foreman city, Arkansas, 1011
+Littleville town, Alabama, 1011
 Foreman city, Arkansas, 1011
 Littleville town, Alabama, 1011
-Littleville town, Alabama, 1011
+Foreman city, Arkansas, 1011
 Coal Hill city, Arkansas, 1012
 Coal Hill city, Arkansas, 1012
 Camp Hill town, Alabama, 1014
@@ -28867,10 +28867,10 @@ Fyffe town, Alabama, 1018
 Fyffe town, Alabama, 1018
 Carrollton town, Alabama, 1019
 Carrollton town, Alabama, 1019
-Akutan city, Alaska, 1027
-Akutan city, Alaska, 1027
 Leesburg town, Alabama, 1027
 Leesburg town, Alabama, 1027
+Akutan city, Alaska, 1027
+Akutan city, Alaska, 1027
 Mosses town, Alabama, 1029
 Mosses town, Alabama, 1029
 London city, Arkansas, 1039
@@ -28881,10 +28881,10 @@ Horatio city, Arkansas, 1044
 Horatio city, Arkansas, 1044
 Highland city, Arkansas, 1045
 Highland city, Arkansas, 1045
-Cherokee town, Alabama, 1048
+Bradbury city, California, 1048
 Cherokee town, Alabama, 1048
 Bradbury city, California, 1048
-Bradbury city, California, 1048
+Cherokee town, Alabama, 1048
 Millport town, Alabama, 1049
 Millport town, Alabama, 1049
 Bear Creek town, Alabama, 1070
@@ -28914,12 +28914,12 @@ New Brockton town, Alabama, 1146
 New Brockton town, Alabama, 1146
 Berry town, Alabama, 1148
 Phil Campbell town, Alabama, 1148
-Phil Campbell town, Alabama, 1148
 Berry town, Alabama, 1148
+Phil Campbell town, Alabama, 1148
+Maricopa city, California, 1154
+Deatsville town, Alabama, 1154
 Deatsville town, Alabama, 1154
 Maricopa city, California, 1154
-Maricopa city, California, 1154
-Deatsville town, Alabama, 1154
 Ohatchee town, Alabama, 1170
 Ohatchee town, Alabama, 1170
 Alpine County, California, 1175
@@ -28927,10 +28927,10 @@ Newark city, Arkansas, 1176
 Newark city, Arkansas, 1176
 Luxora city, Arkansas, 1178
 Luxora city, Arkansas, 1178
-Marvell city, Arkansas, 1186
+Locust Fork town, Alabama, 1186
 Marvell city, Arkansas, 1186
 Locust Fork town, Alabama, 1186
-Locust Fork town, Alabama, 1186
+Marvell city, Arkansas, 1186
 Ardmore town, Alabama, 1194
 Ardmore town, Alabama, 1194
 Craig city, Alaska, 1201
@@ -28955,10 +28955,10 @@ Elmore town, Alabama, 1262
 Elmore town, Alabama, 1262
 Westover town, Alabama, 1275
 Westover town, Alabama, 1275
-Falkville town, Alabama, 1279
+Caraway city, Arkansas, 1279
 Falkville town, Alabama, 1279
 Caraway city, Arkansas, 1279
-Caraway city, Arkansas, 1279
+Falkville town, Alabama, 1279
 Lewisville city, Arkansas, 1280
 Lewisville city, Arkansas, 1280
 Ola city, Arkansas, 1281
@@ -28969,9 +28969,9 @@ Cottonwood town, Alabama, 1289
 Cottonwood town, Alabama, 1289
 Munford town, Alabama, 1292
 Munford town, Alabama, 1292
+Rehobeth town, Alabama, 1297
+Rehobeth town, Alabama, 1297
 Redfield city, Arkansas, 1297
-Rehobeth town, Alabama, 1297
-Rehobeth town, Alabama, 1297
 Redfield city, Arkansas, 1297
 Cleveland town, Alabama, 1303
 Cleveland town, Alabama, 1303
@@ -28984,13 +28984,13 @@ Diaz city, Arkansas, 1318
 Hampton city, Arkansas, 1324
 Hampton city, Arkansas, 1324
 Woodstock town (pt.), Alabama, 1330
-Rison city, Arkansas, 1344
-Fort Deposit town, Alabama, 1344
 Fort Deposit town, Alabama, 1344
 Rison city, Arkansas, 1344
-Marshall city, Arkansas, 1355
-Marshall city, Arkansas, 1355
+Fort Deposit town, Alabama, 1344
+Rison city, Arkansas, 1344
 Flippin city, Arkansas, 1355
+Marshall city, Arkansas, 1355
+Marshall city, Arkansas, 1355
 Flippin city, Arkansas, 1355
 Brookside town, Alabama, 1363
 Brookside town, Alabama, 1363
@@ -29095,10 +29095,10 @@ Biggs city, California, 1707
 Tallassee city (pt.), Alabama, 1709
 Des Arc city, Arkansas, 1717
 Des Arc city, Arkansas, 1717
-McCrory city, Arkansas, 1729
 Cave Springs city, Arkansas, 1729
 McCrory city, Arkansas, 1729
 Cave Springs city, Arkansas, 1729
+McCrory city, Arkansas, 1729
 Georgiana town, Alabama, 1738
 Georgiana town, Alabama, 1738
 Cave City city (pt.), Arkansas, 1742
@@ -29120,8 +29120,8 @@ Wilsonville town, Alabama, 1827
 Brookwood town, Alabama, 1828
 Brookwood town, Alabama, 1828
 Sylvania town, Alabama, 1837
-Sylvania town, Alabama, 1837
 Miami town, Arizona, 1837
+Sylvania town, Alabama, 1837
 Miami town, Arizona, 1837
 Melbourne city, Arkansas, 1848
 Melbourne city, Arkansas, 1848
@@ -29135,11 +29135,11 @@ Morris town, Alabama, 1859
 Rolling Hills city, California, 1860
 Rolling Hills city, California, 1860
 Crossville town, Alabama, 1862
+Tuckerman city, Arkansas, 1862
+Tuckerman city, Arkansas, 1862
 Crossville town, Alabama, 1862
 San Juan Bautista city, California, 1862
-Tuckerman city, Arkansas, 1862
 San Juan Bautista city, California, 1862
-Tuckerman city, Arkansas, 1862
 Smackover city, Arkansas, 1865
 Smackover city, Arkansas, 1865
 Cowarts town, Alabama, 1871
@@ -29161,8 +29161,8 @@ Samson city, Alabama, 1940
 Samson city, Alabama, 1940
 Lake View town, Alabama, 1943
 Lake View town, Alabama, 1943
-Bull Shoals city, Arkansas, 1950
 Kearny town, Arizona, 1950
+Bull Shoals city, Arkansas, 1950
 Kearny town, Arizona, 1950
 Bull Shoals city, Arkansas, 1950
 Springerville town, Arizona, 1961
@@ -29173,14 +29173,14 @@ Colfax city, California, 1963
 Rector city, Arkansas, 1977
 Rector city, Arkansas, 1977
 Slocomb city, Alabama, 1980
+Florala town, Alabama, 1980
 Thorsby town, Alabama, 1980
 Florala town, Alabama, 1980
 Slocomb city, Alabama, 1980
 Thorsby town, Alabama, 1980
-Florala town, Alabama, 1980
 Collinsville town, Alabama, 1983
-Vincent town, Alabama, 1988
 Vincent town (pt.), Alabama, 1988
+Vincent town, Alabama, 1988
 Leachville city, Arkansas, 1993
 Leachville city, Arkansas, 1993
 Vernon city, Alabama, 2000
@@ -29212,9 +29212,9 @@ Lake City city, Arkansas, 2082
 Level Plains town, Alabama, 2085
 Level Plains town, Alabama, 2085
 Trinity town, Alabama, 2095
+Cordova city, Alabama, 2095
+Cordova city, Alabama, 2095
 Trinity town, Alabama, 2095
-Cordova city, Alabama, 2095
-Cordova city, Alabama, 2095
 Portola city, California, 2104
 Portola city, California, 2104
 Wrightsville city, Arkansas, 2114
@@ -29249,8 +29249,8 @@ Ashville city, Alabama, 2212
 Gurdon city, Arkansas, 2212
 Carlisle city, Arkansas, 2214
 Carlisle city, Arkansas, 2214
-Helena city (pt.), Alabama, 2225
 Westmorland city, California, 2225
+Helena city (pt.), Alabama, 2225
 Westmorland city, California, 2225
 Glenwood city, Arkansas, 2228
 Mayflower city, Arkansas, 2234
@@ -29280,10 +29280,10 @@ Gravette city, Arkansas, 2325
 Dillingham city, Alaska, 2329
 Dillingham city, Alaska, 2329
 Fairfield Bay city, Arkansas, 2338
-Henagar city, Alabama, 2344
-Henagar city, Alabama, 2344
 Midland City town, Alabama, 2344
 Midland City town, Alabama, 2344
+Henagar city, Alabama, 2344
+Henagar city, Alabama, 2344
 Huntsville city, Arkansas, 2346
 Huntsville city, Arkansas, 2346
 Indian Springs Village city, Alabama, 2363
@@ -29336,9 +29336,9 @@ Marked Tree city, Arkansas, 2566
 Marked Tree city, Arkansas, 2566
 Lake Village city, Arkansas, 2575
 Lake Village city, Arkansas, 2575
+Little Flock city, Arkansas, 2585
+Little Flock city, Arkansas, 2585
 Jemison city, Alabama, 2585
-Little Flock city, Arkansas, 2585
-Little Flock city, Arkansas, 2585
 Jemison city, Alabama, 2585
 Clinton city, Arkansas, 2602
 Clinton city, Arkansas, 2602
@@ -29416,17 +29416,17 @@ Tallassee city (pt.), Alabama, 3110
 Aleutians East Borough, Alaska, 3141
 Shannon Hills city, Arkansas, 3143
 Shannon Hills city, Arkansas, 3143
-Gentry city, Arkansas, 3158
 Red Bay city, Alabama, 3158
+Gentry city, Arkansas, 3158
 Red Bay city, Alabama, 3158
 Gentry city, Arkansas, 3158
 Warrior city, Alabama, 3176
 Warrior city, Alabama, 3176
 Brinkley city, Arkansas, 3188
 Brinkley city, Arkansas, 3188
-Kotzebue city, Alaska, 3201
 Kotzebue city, Alaska, 3201
 Balance of Valdez-Cordova Census Area, Alaska, 3201
+Kotzebue city, Alaska, 3201
 Dadeville city, Alabama, 3230
 Dadeville city, Alabama, 3230
 Sierra County, California, 3240
@@ -29458,8 +29458,8 @@ Moulton city, Alabama, 3471
 Moulton city, Alabama, 3471
 St. Johns city, Arizona, 3480
 Heflin city, Alabama, 3480
-Heflin city, Alabama, 3480
 St. Johns city, Arizona, 3480
+Heflin city, Alabama, 3480
 Livingston city, Alabama, 3485
 Livingston city, Alabama, 3485
 Centre city, Alabama, 3489
@@ -29548,10 +29548,10 @@ McGehee city, Arkansas, 4219
 McGehee city, Arkansas, 4219
 Lonoke city, Arkansas, 4245
 Lonoke city, Arkansas, 4245
-Brisbane city, California, 4282
+Pinetop-Lakeside town, Arizona, 4282
 Brisbane city, California, 4282
 Pinetop-Lakeside town, Arizona, 4282
-Pinetop-Lakeside town, Arizona, 4282
+Brisbane city, California, 4282
 Hokes Bluff city, Alabama, 4286
 Hokes Bluff city, Alabama, 4286
 Fordyce city, Arkansas, 4300
@@ -29587,9 +29587,9 @@ Jackson city, California, 4651
 Jackson city, California, 4651
 Cherokee Village city, Arkansas, 4671
 Greenbrier city, Arkansas, 4706
+Dumas city, Arkansas, 4706
+Dumas city, Arkansas, 4706
 Greenbrier city, Arkansas, 4706
-Dumas city, Arkansas, 4706
-Dumas city, Arkansas, 4706
 Winfield city, Alabama, 4717
 Ashdown city, Arkansas, 4723
 Ashdown city, Arkansas, 4723
@@ -29919,8 +29919,8 @@ Cleveland County, Arkansas, 8689
 Balance of Lamar County, Alabama, 8703
 Prairie County, Arkansas, 8715
 Balance of Poinsett County, Arkansas, 8831
-Sitka City and Borough, Alaska, 8881
 Sitka city and borough, Alaska, 8881
+Sitka City and Borough, Alaska, 8881
 Sitka city and borough, Alaska, 8881
 Greenwood city, Arkansas, 8952
 Greenwood city, Arkansas, 8952
@@ -29981,8 +29981,8 @@ Capitola city, California, 9918
 Capitola city, California, 9918
 Anderson city, California, 9932
 Anderson city, California, 9932
-Sedona city, Arizona, 10031
 Balance of Fayette County, Alabama, 10031
+Sedona city, Arizona, 10031
 Balance of Macon County, Alabama, 10074
 Emeryville city, California, 10080
 Emeryville city, California, 10080
@@ -30045,9 +30045,9 @@ Sierra Madre city, California, 10917
 Sierra Madre city, California, 10917
 Mendota city, California, 11014
 Mendota city, California, 11014
+Signal Hill city, California, 11016
+Signal Hill city, California, 11016
 Balance of Hale County, Alabama, 11016
-Signal Hill city, California, 11016
-Signal Hill city, California, 11016
 Fairfield city, Alabama, 11117
 Fairfield city, Alabama, 11117
 Balance of Hempstead County, Arkansas, 11127
@@ -30084,9 +30084,9 @@ Leeds city, Alabama, 11773
 Chicot County, Arkansas, 11800
 Coolidge city, Arizona, 11825
 Coolidge city, Arizona, 11825
-Fortuna city, California, 11926
-Fortuna city, California, 11926
 Larkspur city, California, 11926
+Fortuna city, California, 11926
+Fortuna city, California, 11926
 Larkspur city, California, 11926
 Balance of Van Buren County, Arkansas, 11997
 Grand Terrace city, California, 12040
@@ -30102,8 +30102,8 @@ Helena-West Helena city, Arkansas, 12282
 Helena-West Helena city, Arkansas, 12282
 San Anselmo town, California, 12336
 San Anselmo town, California, 12336
-Marion city, Arkansas, 12345
 Balance of Pike County, Alabama, 12345
+Marion city, Arkansas, 12345
 Marion city, Arkansas, 12345
 Irondale city, Alabama, 12349
 Irondale city, Alabama, 12349
@@ -30178,8 +30178,8 @@ Gardendale city, Alabama, 13893
 Gardendale city, Alabama, 13893
 Mill Valley city, California, 13903
 Mill Valley city, California, 13903
-Balance of Monroe County, Alabama, 13904
 Balance of Geneva County, Alabama, 13904
+Balance of Monroe County, Alabama, 13904
 Crenshaw County, Alabama, 13906
 Clay County, Alabama, 13932
 Fort Payne city, Alabama, 14012
@@ -30189,8 +30189,8 @@ Red Bluff city, California, 14076
 California City city, California, 14120
 California City city, California, 14120
 Lincoln County, Arkansas, 14134
-Balance of Clarke County, Alabama, 14202
 Mono County, California, 14202
+Balance of Clarke County, Alabama, 14202
 Hawaiian Gardens city, California, 14254
 Hawaiian Gardens city, California, 14254
 Hartselle city, Alabama, 14255
@@ -30371,8 +30371,8 @@ Lomita city, California, 20256
 Agoura Hills city, California, 20330
 Agoura Hills city, California, 20330
 Balance of Graham County, Arizona, 20402
-Mountain Brook city, Alabama, 20413
 Patterson city, California, 20413
+Mountain Brook city, Alabama, 20413
 Mountain Brook city, Alabama, 20413
 Patterson city, California, 20413
 La Paz County, Arizona, 20489
@@ -30900,8 +30900,8 @@ Huntington Park city, California, 58114
 Huntington Park city, California, 58114
 Cupertino city, California, 58302
 Cupertino city, California, 58302
-National City city, California, 58582
 Hoover city (pt.), Alabama, 58582
+National City city, California, 58582
 National City city, California, 58582
 Gardena city, California, 58829
 Gardena city, California, 58829
@@ -31312,8 +31312,8 @@ Balance of Maricopa County, Arizona, 284404
 Stockton city, California, 291707
 Stockton city, California, 291707
 Balance of San Bernardino County, California, 291776
-Anchorage municipality, Alaska, 291826
 Anchorage Municipality, Alaska, 291826
+Anchorage municipality, Alaska, 291826
 Anchorage municipality, Alaska, 291826
 Balance of Kern County, California, 297932
 Riverside city, California, 303871
@@ -31387,7 +31387,7 @@ Los Angeles County, California, 9818605
 California, California, 37253956
 
 Sorted by NAME
-CPU time: 0.00559167 seconds on 3920 records
+CPU time: 0.00576376 seconds on 3920 records
 Abbeville city, Alabama, 2688
 Abbeville city, Alabama, 2688
 Adak city, Alaska, 326
@@ -31430,8 +31430,8 @@ Aleutians West Census Area, Alaska, 5561
 Alexander City city, Alabama, 14875
 Alexander City city, Alabama, 14875
 Alexander city, Arkansas, 2901
-Alexander city (pt.), Arkansas, 236
 Alexander city (pt.), Arkansas, 2665
+Alexander city (pt.), Arkansas, 236
 Alhambra city, California, 83089
 Alhambra city, California, 83089
 Aliceville city, Alabama, 2486
@@ -31483,10 +31483,10 @@ Anchorage municipality, Alaska, 291826
 Anchorage municipality, Alaska, 291826
 Andalusia city, Alabama, 9015
 Andalusia city, Alabama, 9015
-Anderson city, California, 9932
+Anderson city, Alaska, 246
 Anderson city, Alaska, 246
 Anderson city, California, 9932
-Anderson city, Alaska, 246
+Anderson city, California, 9932
 Anderson town, Alabama, 282
 Anderson town, Alabama, 282
 Angels city, California, 3836
@@ -31507,8 +31507,8 @@ Anvik city, Alaska, 85
 Anvik city, Alaska, 85
 Apache County, Arizona, 71518
 Apache Junction city, Arizona, 35840
-Apache Junction city (pt.), Arizona, 294
 Apache Junction city (pt.), Arizona, 35546
+Apache Junction city (pt.), Arizona, 294
 Apple Valley town, California, 69135
 Apple Valley town, California, 69135
 Arab city, Alabama, 8050
@@ -31521,8 +31521,8 @@ Arcata city, California, 17231
 Ardmore town, Alabama, 1194
 Ardmore town, Alabama, 1194
 Argo town, Alabama, 4071
-Argo town (pt.), Alabama, 61
 Argo town (pt.), Alabama, 4010
+Argo town (pt.), Alabama, 61
 Ariton town, Alabama, 764
 Ariton town, Alabama, 764
 Arizona, Arizona, 6392017
@@ -31574,8 +31574,8 @@ Aubrey town, Arkansas, 170
 Aubrey town, Arkansas, 170
 Auburn city, California, 13330
 Auburn city, Alabama, 53380
-Auburn city, California, 13330
 Auburn city, Alabama, 53380
+Auburn city, California, 13330
 Augusta city, Arkansas, 2199
 Augusta city, Arkansas, 2199
 Austin city, Arkansas, 2038
@@ -31624,8 +31624,8 @@ Balance of Bullock County, Alabama, 6435
 Balance of Butler County, Alabama, 10552
 Balance of Butte County, California, 83758
 Balance of Calaveras County, California, 41742
-Balance of Calhoun County, Alabama, 55671
 Balance of Calhoun County, Arkansas, 3329
+Balance of Calhoun County, Alabama, 55671
 Balance of Carroll County, Arkansas, 16684
 Balance of Chambers County, Alabama, 14858
 Balance of Cherokee County, Alabama, 18951
@@ -31634,8 +31634,8 @@ Balance of Chilton County, Alabama, 29655
 Balance of Choctaw County, Alabama, 10307
 Balance of Clark County, Arkansas, 8352
 Balance of Clarke County, Alabama, 14202
-Balance of Clay County, Arkansas, 5273
 Balance of Clay County, Alabama, 9500
+Balance of Clay County, Arkansas, 5273
 Balance of Cleburne County, Alabama, 10597
 Balance of Cleburne County, Arkansas, 16635
 Balance of Cleveland County, Arkansas, 6898
@@ -31657,8 +31657,8 @@ Balance of Crittenden County, Arkansas, 6933
 Balance of Cross County, Arkansas, 7475
 Balance of Cullman County, Alabama, 55816
 Balance of Dale County, Alabama, 19887
-Balance of Dallas County, Arkansas, 3046
 Balance of Dallas County, Alabama, 18840
+Balance of Dallas County, Arkansas, 3046
 Balance of DeKalb County, Alabama, 38424
 Balance of Del Norte County, California, 20967
 Balance of Denali Borough, Alaska, 1580
@@ -31716,8 +31716,8 @@ Balance of Lassen County, California, 16948
 Balance of Lauderdale County, Alabama, 49392
 Balance of Lawrence County, Alabama, 27975
 Balance of Lawrence County, Arkansas, 5919
-Balance of Lee County, Alabama, 51009
 Balance of Lee County, Arkansas, 5486
+Balance of Lee County, Alabama, 51009
 Balance of Limestone County, Alabama, 54035
 Balance of Lincoln County, Arkansas, 10574
 Balance of Little River County, Arkansas, 6691
@@ -31732,8 +31732,8 @@ Balance of Madison County, Alabama, 111114
 Balance of Marengo County, Alabama, 10243
 Balance of Maricopa County, Arizona, 284404
 Balance of Marin County, California, 67427
-Balance of Marion County, Alabama, 13407
 Balance of Marion County, Arkansas, 11319
+Balance of Marion County, Alabama, 13407
 Balance of Marshall County, Alabama, 45474
 Balance of Matanuska-Susitna Borough, Alaska, 73315
 Balance of Mendocino County, California, 59156
@@ -31744,8 +31744,8 @@ Balance of Mobile County, Alabama, 158342
 Balance of Modoc County, California, 6859
 Balance of Mohave County, Arizona, 75230
 Balance of Mono County, California, 5968
-Balance of Monroe County, Alabama, 13904
 Balance of Monroe County, Arkansas, 2483
+Balance of Monroe County, Alabama, 13904
 Balance of Monterey County, California, 100213
 Balance of Montgomery County, Arkansas, 7660
 Balance of Montgomery County, Alabama, 18193
@@ -31760,13 +31760,13 @@ Balance of North Slope Borough, Alaska, 2790
 Balance of Northwest Arctic Borough, Alaska, 881
 Balance of Orange County, California, 121160
 Balance of Ouachita County, Arkansas, 10698
-Balance of Perry County, Alabama, 5130
 Balance of Perry County, Arkansas, 7785
+Balance of Perry County, Alabama, 5130
 Balance of Petersburg Census Area, Alaska, 231
 Balance of Phillips County, Arkansas, 6924
 Balance of Pickens County, Alabama, 12061
-Balance of Pike County, Arkansas, 6953
 Balance of Pike County, Alabama, 12345
+Balance of Pike County, Arkansas, 6953
 Balance of Pima County, Arizona, 353264
 Balance of Pinal County, Arizona, 187517
 Balance of Placer County, California, 108128
@@ -31777,8 +31777,8 @@ Balance of Pope County, Arkansas, 25113
 Balance of Prairie County, Arkansas, 4378
 Balance of Prince of Wales-Hyder Census Area, Alaska, 2531
 Balance of Pulaski County, Arkansas, 48752
-Balance of Randolph County, Arkansas, 9820
 Balance of Randolph County, Alabama, 15081
+Balance of Randolph County, Arkansas, 9820
 Balance of Riverside County, California, 504392
 Balance of Russell County, Alabama, 23725
 Balance of Sacramento County, California, 554554
@@ -31823,8 +31823,8 @@ Balance of Van Buren County, Arkansas, 11997
 Balance of Ventura County, California, 94937
 Balance of Wade Hampton Census Area, Alaska, 137
 Balance of Walker County, Alabama, 41242
-Balance of Washington County, Alabama, 15509
 Balance of Washington County, Arkansas, 38142
+Balance of Washington County, Alabama, 15509
 Balance of White County, Arkansas, 35905
 Balance of Wilcox County, Alabama, 8329
 Balance of Winston County, Alabama, 17464
@@ -31840,10 +31840,10 @@ Bald Knob city, Arkansas, 2897
 Baldwin County, Alabama, 182265
 Baldwin Park city, California, 75390
 Baldwin Park city, California, 75390
-Banks town, Alabama, 179
-Banks town, Alabama, 179
 Banks town, Arkansas, 124
 Banks town, Arkansas, 124
+Banks town, Alabama, 179
+Banks town, Alabama, 179
 Banning city, California, 29603
 Banning city, California, 29603
 Barbour County, Alabama, 27457
@@ -31936,8 +31936,8 @@ Bibb County, Alabama, 22915
 Big Bear Lake city, California, 5019
 Big Bear Lake city, California, 5019
 Big Flat town, Arkansas, 105
-Big Flat town (pt.), Arkansas, 1
 Big Flat town (pt.), Arkansas, 104
+Big Flat town (pt.), Arkansas, 1
 Bigelow town, Arkansas, 315
 Bigelow town, Arkansas, 315
 Biggers town, Arkansas, 347
@@ -32081,12 +32081,12 @@ Caldwell town, Arkansas, 555
 Cale town, Arkansas, 79
 Cale town, Arkansas, 79
 Calera city, Alabama, 11620
-Calera city (pt.), Alabama, 11524
 Calera city (pt.), Alabama, 96
+Calera city (pt.), Alabama, 11524
 Calexico city, California, 38572
 Calexico city, California, 38572
-Calhoun County, Alabama, 118572
 Calhoun County, Arkansas, 5368
+Calhoun County, Alabama, 118572
 Calico Rock city, Arkansas, 1545
 Calico Rock city, Arkansas, 1545
 California, California, 37253956
@@ -32102,8 +32102,8 @@ Calistoga city, California, 5155
 Calistoga city, California, 5155
 Camarillo city, California, 65201
 Camarillo city, California, 65201
-Camden city, Alabama, 2020
 Camden city, Arkansas, 12183
+Camden city, Alabama, 2020
 Camden city, Arkansas, 12183
 Camden city, Alabama, 2020
 Cammack Village city, Arkansas, 768
@@ -32250,8 +32250,8 @@ Clarkedale city, Arkansas, 371
 Clarkedale city, Arkansas, 371
 Clarksville city, Arkansas, 9178
 Clarksville city, Arkansas, 9178
-Clay County, Alabama, 13932
 Clay County, Arkansas, 16083
+Clay County, Alabama, 13932
 Clay city, Alabama, 9708
 Clay city, Alabama, 9708
 Clayhatchee town, Alabama, 589
@@ -32262,8 +32262,8 @@ Clayton town, Alabama, 3008
 Clayton town, Alabama, 3008
 Clearlake city, California, 15250
 Clearlake city, California, 15250
-Cleburne County, Arkansas, 25970
 Cleburne County, Alabama, 14972
+Cleburne County, Arkansas, 25970
 Cleveland County, Arkansas, 8689
 Cleveland town, Alabama, 1303
 Cleveland town, Alabama, 1303
@@ -32344,16 +32344,16 @@ Coosada town, Alabama, 1224
 Coosada town, Alabama, 1224
 Corcoran city, California, 24813
 Corcoran city, California, 24813
+Cordova city, Alaska, 2239
+Cordova city, Alaska, 2239
 Cordova city, Alabama, 2095
-Cordova city, Alaska, 2239
-Cordova city, Alaska, 2239
 Cordova city, Alabama, 2095
 Corinth town, Arkansas, 70
 Corinth town, Arkansas, 70
 Corning city, California, 7663
 Corning city, Arkansas, 3377
-Corning city, California, 7663
 Corning city, Arkansas, 3377
+Corning city, California, 7663
 Corona city, California, 152374
 Corona city, California, 152374
 Coronado city, California, 18912
@@ -32373,8 +32373,8 @@ Cottonwood city, Arizona, 11265
 Cottonwood town, Alabama, 1289
 Cottonwood town, Alabama, 1289
 County Line town, Alabama, 258
-County Line town (pt.), Alabama, 197
 County Line town (pt.), Alabama, 61
+County Line town (pt.), Alabama, 197
 Courtland town, Alabama, 609
 Courtland town, Alabama, 609
 Cove town, Arkansas, 382
@@ -32427,13 +32427,13 @@ Daisy town, Arkansas, 115
 Dale County, Alabama, 50251
 Daleville city, Alabama, 5295
 Daleville city, Alabama, 5295
-Dallas County, Alabama, 43820
 Dallas County, Arkansas, 8116
+Dallas County, Alabama, 43820
 Daly City city, California, 101123
 Daly City city, California, 101123
 Damascus town, Arkansas, 382
-Damascus town (pt.), Arkansas, 132
 Damascus town (pt.), Arkansas, 250
+Damascus town (pt.), Arkansas, 132
 Dana Point city, California, 33351
 Dana Point city, California, 33351
 Danville city, Arkansas, 2409
@@ -32529,9 +32529,9 @@ Dorris city, California, 939
 Dos Palos city, California, 4950
 Dos Palos city, California, 4950
 Dothan city, Alabama, 65496
-Dothan city (pt.), Alabama, 887
-Dothan city (pt.), Alabama, 5
 Dothan city (pt.), Alabama, 64604
+Dothan city (pt.), Alabama, 5
+Dothan city (pt.), Alabama, 887
 Double Springs town, Alabama, 1083
 Double Springs town, Alabama, 1083
 Douglas city, Arizona, 17378
@@ -32637,8 +32637,8 @@ Emerson town, Arkansas, 368
 Emeryville city, California, 10080
 Emeryville city, California, 10080
 Emmet city, Arkansas, 518
-Emmet city (pt.), Arkansas, 43
 Emmet city (pt.), Arkansas, 475
+Emmet city (pt.), Arkansas, 43
 Emmonak city, Alaska, 762
 Emmonak city, Alaska, 762
 Encinitas city, California, 59518
@@ -32648,8 +32648,8 @@ England city, Arkansas, 2825
 Enola town, Arkansas, 338
 Enola town, Arkansas, 338
 Enterprise city, Alabama, 26562
-Enterprise city (pt.), Alabama, 423
 Enterprise city (pt.), Alabama, 26139
+Enterprise city (pt.), Alabama, 423
 Epes town, Alabama, 192
 Epes town, Alabama, 192
 Escalon city, California, 7132
@@ -32694,8 +32694,8 @@ Fairfax town, California, 7441
 Fairfield Bay city, Arkansas, 2338
 Fairfield Bay city (pt.), Arkansas, 2155
 Fairfield Bay city (pt.), Arkansas, 183
-Fairfield city, Alabama, 11117
 Fairfield city, California, 105321
+Fairfield city, Alabama, 11117
 Fairfield city, Alabama, 11117
 Fairfield city, California, 105321
 Fairhope city, Alabama, 15326
@@ -32790,11 +32790,11 @@ Fourche town, Arkansas, 62
 Fourche town, Arkansas, 62
 Fowler city, California, 5570
 Fowler city, California, 5570
-Franklin County, Arkansas, 18125
 Franklin County, Alabama, 31704
-Franklin town, Arkansas, 198
-Franklin town, Arkansas, 198
+Franklin County, Arkansas, 18125
 Franklin town, Alabama, 149
+Franklin town, Arkansas, 198
+Franklin town, Arkansas, 198
 Franklin town, Alabama, 149
 Fredonia (Biscoe) town, Arkansas, 363
 Fredonia (Biscoe) town, Arkansas, 363
@@ -32814,9 +32814,9 @@ Fruithurst town, Alabama, 284
 Fullerton city, California, 135161
 Fullerton city, California, 135161
 Fulton County, Arkansas, 12245
-Fulton town, Arkansas, 201
-Fulton town, Arkansas, 201
 Fulton town, Alabama, 272
+Fulton town, Arkansas, 201
+Fulton town, Arkansas, 201
 Fulton town, Alabama, 272
 Fultondale city, Alabama, 8380
 Fultondale city, Alabama, 8380
@@ -32873,8 +32873,8 @@ Gila Bend town, Arizona, 1922
 Gila Bend town, Arizona, 1922
 Gila County, Arizona, 53597
 Gilbert town, Arkansas, 28
-Gilbert town, Arkansas, 28
 Gilbert town, Arizona, 208453
+Gilbert town, Arkansas, 28
 Gilbert town, Arizona, 208453
 Gilbertown town, Alabama, 215
 Gilbertown town, Alabama, 215
@@ -32892,10 +32892,10 @@ Glen Allen town (pt.), Alabama, 458
 Glencoe city, Alabama, 5160
 Glencoe city (pt.), Alabama, 38
 Glencoe city (pt.), Alabama, 5122
-Glendale city, California, 191719
-Glendale city, Arizona, 226721
 Glendale city, Arizona, 226721
 Glendale city, California, 191719
+Glendale city, California, 191719
+Glendale city, Arizona, 226721
 Glendora city, California, 50073
 Glendora city, California, 50073
 Glenn County, California, 28122
@@ -32930,8 +32930,8 @@ Gordonville town, Alabama, 326
 Gordonville town, Alabama, 326
 Goshen town, Alabama, 266
 Goshen town, Arkansas, 1071
-Goshen town, Arkansas, 1071
 Goshen town, Alabama, 266
+Goshen town, Arkansas, 1071
 Gosnell city, Arkansas, 3548
 Gosnell city, Arkansas, 3548
 Gould city, Arkansas, 837
@@ -32958,8 +32958,8 @@ Green Forest city, Arkansas, 2761
 Green Forest city, Arkansas, 2761
 Greenbrier city, Arkansas, 4706
 Greenbrier city, Arkansas, 4706
-Greene County, Arkansas, 42090
 Greene County, Alabama, 9045
+Greene County, Arkansas, 42090
 Greenfield city, California, 16330
 Greenfield city, California, 16330
 Greenland city, Arkansas, 1259
@@ -33023,8 +33023,8 @@ Hale County, Alabama, 15760
 Haleburg town, Alabama, 103
 Haleburg town, Alabama, 103
 Haleyville city, Alabama, 4173
-Haleyville city (pt.), Alabama, 48
 Haleyville city (pt.), Alabama, 4125
+Haleyville city (pt.), Alabama, 48
 Half Moon Bay city, California, 11324
 Half Moon Bay city, California, 11324
 Hamburg city, Arkansas, 2857
@@ -33068,11 +33068,11 @@ Hawaiian Gardens city, California, 14254
 Hawaiian Gardens city, California, 14254
 Hawthorne city, California, 84293
 Hawthorne city, California, 84293
-Hayden town, Alabama, 444
 Hayden town, Arizona, 662
 Hayden town, Alabama, 444
-Hayden town (pt.), Arizona, 0
+Hayden town, Alabama, 444
 Hayden town (pt.), Arizona, 662
+Hayden town (pt.), Arizona, 0
 Haynes town, Arkansas, 150
 Haynes town, Arkansas, 150
 Hayneville town, Alabama, 932
@@ -33094,8 +33094,8 @@ Hector town, Arkansas, 450
 Heflin city, Alabama, 3480
 Heflin city, Alabama, 3480
 Helena city, Alabama, 16793
-Helena city (pt.), Alabama, 14568
 Helena city (pt.), Alabama, 2225
+Helena city (pt.), Alabama, 14568
 Helena-West Helena city, Arkansas, 12282
 Helena-West Helena city, Arkansas, 12282
 Hemet city, California, 78657
@@ -33124,8 +33124,8 @@ Highfill town, Arkansas, 583
 Highfill town, Arkansas, 583
 Highland Lake town, Alabama, 412
 Highland Lake town, Alabama, 412
-Highland city, California, 53104
 Highland city, Arkansas, 1045
+Highland city, California, 53104
 Highland city, California, 53104
 Highland city, Arkansas, 1045
 Hillsboro town, Alabama, 552
@@ -33195,10 +33195,10 @@ Huachuca City town, Arizona, 1853
 Huachuca City town, Arizona, 1853
 Hueytown city, Alabama, 16105
 Hueytown city, Alabama, 16105
-Hughes city, Arkansas, 1441
-Hughes city, Alaska, 77
 Hughes city, Alaska, 77
 Hughes city, Arkansas, 1441
+Hughes city, Arkansas, 1441
+Hughes city, Alaska, 77
 Hughson city, California, 6640
 Hughson city, California, 6640
 Humboldt County, California, 134623
@@ -33216,10 +33216,10 @@ Huntington Park city, California, 58114
 Huntington city, Arkansas, 635
 Huntington city, Arkansas, 635
 Huntsville city, Arkansas, 2346
-Huntsville city, Alabama, 180105
 Huntsville city, Arkansas, 2346
-Huntsville city (pt.), Alabama, 178584
+Huntsville city, Alabama, 180105
 Huntsville city (pt.), Alabama, 1521
+Huntsville city (pt.), Alabama, 178584
 Huron city, California, 6754
 Huron city, California, 6754
 Hurtsboro town, Alabama, 553
@@ -33275,8 +33275,8 @@ Jacksonport town, Arkansas, 212
 Jacksons' Gap town, Alabama, 828
 Jacksons' Gap town, Alabama, 828
 Jacksonville city, Arkansas, 28364
-Jacksonville city, Arkansas, 28364
 Jacksonville city, Alabama, 12548
+Jacksonville city, Arkansas, 28364
 Jacksonville city, Alabama, 12548
 Jasper city, Alabama, 14352
 Jasper city, Alabama, 14352
@@ -33291,9 +33291,9 @@ Jennette town (pt.), Arkansas, 115
 Jennette town (pt.), Arkansas, 0
 Jericho town, Arkansas, 119
 Jericho town, Arkansas, 119
-Jerome town, Arkansas, 39
-Jerome town, Arkansas, 39
 Jerome town, Arizona, 444
+Jerome town, Arkansas, 39
+Jerome town, Arkansas, 39
 Jerome town, Arizona, 444
 Johnson County, Arkansas, 25540
 Johnson city, Arkansas, 3354
@@ -33480,8 +33480,8 @@ Lead Hill town, Arkansas, 271
 Lee County, Arkansas, 10424
 Lee County, Alabama, 140247
 Leeds city, Alabama, 11773
-Leeds city (pt.), Alabama, 106
 Leeds city (pt.), Alabama, 9809
+Leeds city (pt.), Alabama, 106
 Leeds city (pt.), Alabama, 1858
 Leesburg town, Alabama, 1027
 Leesburg town, Alabama, 1027
@@ -33513,11 +33513,11 @@ Libertyville town, Alabama, 117
 Libertyville town, Alabama, 117
 Limestone County, Alabama, 82782
 Lincoln County, Arkansas, 14134
-Lincoln city, Arkansas, 2249
 Lincoln city, Alabama, 6266
+Lincoln city, Alabama, 6266
+Lincoln city, Arkansas, 2249
+Lincoln city, Arkansas, 2249
 Lincoln city, California, 42819
-Lincoln city, Alabama, 6266
-Lincoln city, Arkansas, 2249
 Lincoln city, California, 42819
 Linden city, Alabama, 2123
 Linden city, Alabama, 2123
@@ -33543,8 +33543,8 @@ Live Oak city, California, 8392
 Livermore city, California, 80968
 Livermore city, California, 80968
 Livingston city, California, 13058
-Livingston city, Alabama, 3485
 Livingston city, California, 13058
+Livingston city, Alabama, 3485
 Livingston city, Alabama, 3485
 Loachapoka town, Alabama, 180
 Loachapoka town, Alabama, 180
@@ -33608,8 +33608,8 @@ Luxora city, Arkansas, 1178
 Luxora city, Arkansas, 1178
 Lynn town, Arkansas, 288
 Lynn town, Alabama, 659
-Lynn town, Alabama, 659
 Lynn town, Arkansas, 288
+Lynn town, Alabama, 659
 Lynwood city, California, 69772
 Lynwood city, California, 69772
 Macon County, Alabama, 21452
@@ -33669,10 +33669,10 @@ Margaret town, Alabama, 4428
 Marianna city, Arkansas, 4115
 Marianna city, Arkansas, 4115
 Maricopa County, Arizona, 3817117
-Maricopa city, California, 1154
+Maricopa city, Arizona, 43482
 Maricopa city, Arizona, 43482
 Maricopa city, California, 1154
-Maricopa city, Arizona, 43482
+Maricopa city, California, 1154
 Marie town, Arkansas, 84
 Marie town, Arkansas, 84
 Marin County, California, 252409
@@ -33691,8 +33691,8 @@ Marmaduke city, Arkansas, 1111
 Marmaduke city, Arkansas, 1111
 Marshall County, Alabama, 93019
 Marshall city, Alaska, 414
-Marshall city, Arkansas, 1355
 Marshall city, Alaska, 414
+Marshall city, Arkansas, 1355
 Marshall city, Arkansas, 1355
 Martinez city, California, 35824
 Martinez city, California, 35824
@@ -33768,17 +33768,17 @@ Midland City town, Alabama, 2344
 Midland City town, Alabama, 2344
 Midland town, Arkansas, 325
 Midland town, Arkansas, 325
-Midway town, Alabama, 499
+Midway town, Arkansas, 389
 Midway town, Arkansas, 389
 Midway town, Alabama, 499
-Midway town, Arkansas, 389
+Midway town, Alabama, 499
 Mill Valley city, California, 13903
 Mill Valley city, California, 13903
 Millbrae city, California, 21532
 Millbrae city, California, 21532
 Millbrook city, Alabama, 14640
-Millbrook city (pt.), Alabama, 144
 Millbrook city (pt.), Alabama, 14496
+Millbrook city (pt.), Alabama, 144
 Miller County, Arkansas, 43462
 Millport town, Alabama, 1049
 Millport town, Alabama, 1049
@@ -33826,8 +33826,8 @@ Monterey city, California, 27810
 Monterey city, California, 27810
 Montevallo city, Alabama, 6323
 Montevallo city, Alabama, 6323
-Montgomery County, Alabama, 229363
 Montgomery County, Arkansas, 9487
+Montgomery County, Alabama, 229363
 Montgomery city, Alabama, 205764
 Montgomery city, Alabama, 205764
 Monticello city, Arkansas, 9467
@@ -33874,17 +33874,17 @@ Mount Shasta city, California, 3394
 Mount Shasta city, California, 3394
 Mount Vernon town, Arkansas, 145
 Mount Vernon town, Alabama, 1574
-Mount Vernon town, Alabama, 1574
 Mount Vernon town, Arkansas, 145
+Mount Vernon town, Alabama, 1574
 Mountain Brook city, Alabama, 20413
 Mountain Brook city, Alabama, 20413
 Mountain Home city, Arkansas, 12448
 Mountain Home city, Arkansas, 12448
 Mountain Pine city, Arkansas, 770
 Mountain Pine city, Arkansas, 770
+Mountain View city, California, 74066
+Mountain View city, California, 74066
 Mountain View city, Arkansas, 2748
-Mountain View city, California, 74066
-Mountain View city, California, 74066
 Mountain View city, Arkansas, 2748
 Mountain Village city, Alaska, 813
 Mountain Village city, Alaska, 813
@@ -33944,9 +33944,9 @@ New Site town, Alabama, 773
 New Stuyahok city, Alaska, 510
 New Stuyahok city, Alaska, 510
 Newark city, Arkansas, 1176
-Newark city, California, 42573
-Newark city, California, 42573
 Newark city, Arkansas, 1176
+Newark city, California, 42573
+Newark city, California, 42573
 Newbern town, Alabama, 186
 Newbern town, Alabama, 186
 Newhalen city, Alaska, 190
@@ -34000,8 +34000,8 @@ Northwest Arctic Borough, Alaska, 7523
 Norwalk city, California, 105549
 Norwalk city, California, 105549
 Notasulga town, Alabama, 965
-Notasulga town (pt.), Alabama, 890
 Notasulga town (pt.), Alabama, 75
+Notasulga town (pt.), Alabama, 890
 Novato city, California, 51904
 Novato city, California, 51904
 Nuiqsut city, Alaska, 402
@@ -34017,9 +34017,9 @@ O'Kean town, Arkansas, 194
 Oak Grove Heights town, Arkansas, 889
 Oak Grove Heights town, Arkansas, 889
 Oak Grove town, Alabama, 528
+Oak Grove town, Arkansas, 369
+Oak Grove town, Arkansas, 369
 Oak Grove town, Alabama, 528
-Oak Grove town, Arkansas, 369
-Oak Grove town, Arkansas, 369
 Oak Hill town, Alabama, 26
 Oak Hill town, Alabama, 26
 Oakdale city, California, 20675
@@ -34093,15 +34093,15 @@ Owens Cross Roads town, Alabama, 1521
 Oxford city, Arkansas, 670
 Oxford city, Arkansas, 670
 Oxford city, Alabama, 21348
-Oxford city (pt.), Alabama, 4151
 Oxford city (pt.), Alabama, 17197
+Oxford city (pt.), Alabama, 4151
 Oxnard city, California, 197899
 Oxnard city, California, 197899
 Ozan town, Arkansas, 85
 Ozan town, Arkansas, 85
-Ozark city, Alabama, 14907
 Ozark city, Alabama, 14907
 Ozark city, Arkansas, 3684
+Ozark city, Alabama, 14907
 Ozark city, Arkansas, 3684
 Pacific Grove city, California, 15041
 Pacific Grove city, California, 15041
@@ -34153,8 +34153,8 @@ Patagonia town, Arizona, 913
 Patagonia town, Arizona, 913
 Patmos town, Arkansas, 64
 Patmos town, Arkansas, 64
-Patterson city, California, 20413
 Patterson city, Arkansas, 452
+Patterson city, California, 20413
 Patterson city, California, 20413
 Patterson city, Arkansas, 452
 Payson town, Arizona, 15301
@@ -34172,16 +34172,16 @@ Pell City city, Alabama, 12695
 Pennington town, Alabama, 221
 Pennington town, Alabama, 221
 Peoria city, Arizona, 154065
-Peoria city (pt.), Arizona, 154058
 Peoria city (pt.), Arizona, 7
+Peoria city (pt.), Arizona, 154058
 Perdido Beach town, Alabama, 581
 Perdido Beach town, Alabama, 581
 Perla town, Arkansas, 241
 Perla town, Arkansas, 241
 Perris city, California, 68386
 Perris city, California, 68386
-Perry County, Alabama, 10591
 Perry County, Arkansas, 10445
+Perry County, Alabama, 10591
 Perry town, Arkansas, 270
 Perry town, Arkansas, 270
 Perrytown town, Arkansas, 272
@@ -34196,8 +34196,8 @@ Petersburg city, Alaska, 2948
 Petrey town, Alabama, 58
 Petrey town, Alabama, 58
 Phenix City city, Alabama, 32822
-Phenix City city (pt.), Alabama, 28669
 Phenix City city (pt.), Alabama, 4153
+Phenix City city (pt.), Alabama, 28669
 Phil Campbell town, Alabama, 1148
 Phil Campbell town, Alabama, 1148
 Phillips County, Arkansas, 21757
@@ -34208,15 +34208,15 @@ Pickensville town, Alabama, 608
 Pickensville town, Alabama, 608
 Pico Rivera city, California, 62942
 Pico Rivera city, California, 62942
-Piedmont city, California, 10667
-Piedmont city, California, 10667
 Piedmont city, Alabama, 4878
+Piedmont city, California, 10667
+Piedmont city, California, 10667
 Piedmont city (pt.), Alabama, 4878
 Piedmont city (pt.), Alabama, 0
 Piggott city, Arkansas, 3849
 Piggott city, Arkansas, 3849
-Pike County, Arkansas, 11291
 Pike County, Alabama, 32899
+Pike County, Arkansas, 11291
 Pike Road town, Alabama, 5406
 Pike Road town, Alabama, 5406
 Pilot Point city, Alaska, 68
@@ -34347,8 +34347,8 @@ Pyatt town, Arkansas, 221
 Quartzsite town, Arizona, 3677
 Quartzsite town, Arizona, 3677
 Queen Creek town, Arizona, 26361
-Queen Creek town (pt.), Arizona, 449
 Queen Creek town (pt.), Arizona, 25912
+Queen Creek town (pt.), Arizona, 449
 Quinhagak city, Alaska, 669
 Quinhagak city, Alaska, 669
 Quitman city, Arkansas, 762
@@ -34372,8 +34372,8 @@ Rancho Palos Verdes city, California, 41643
 Rancho Palos Verdes city, California, 41643
 Rancho Santa Margarita city, California, 47853
 Rancho Santa Margarita city, California, 47853
-Randolph County, Alabama, 22913
 Randolph County, Arkansas, 17969
+Randolph County, Alabama, 22913
 Ratcliff city, Arkansas, 202
 Ratcliff city, Arkansas, 202
 Ravenden Springs town, Arkansas, 118
@@ -34482,10 +34482,10 @@ Rudy town, Arkansas, 61
 Russell County, Alabama, 52947
 Russell town, Arkansas, 216
 Russell town, Arkansas, 216
-Russellville city, Arkansas, 27920
+Russellville city, Alabama, 9830
 Russellville city, Alabama, 9830
 Russellville city, Arkansas, 27920
-Russellville city, Alabama, 9830
+Russellville city, Arkansas, 27920
 Russian Mission city, Alaska, 312
 Russian Mission city, Alaska, 312
 Rutledge town, Alabama, 467
@@ -34584,8 +34584,8 @@ Santa Clara city, California, 116468
 Santa Clara city, California, 116468
 Santa Clarita city, California, 176320
 Santa Clarita city, California, 176320
-Santa Cruz County, Arizona, 47420
 Santa Cruz County, California, 262382
+Santa Cruz County, Arizona, 47420
 Santa Cruz city, California, 59946
 Santa Cruz city, California, 59946
 Santa Fe Springs city, California, 16223
@@ -34761,15 +34761,15 @@ South Vinemont town, Alabama, 749
 South Vinemont town, Alabama, 749
 Southeast Fairbanks Census Area, Alaska, 7029
 Southside city, Alabama, 8412
-Southside city (pt.), Alabama, 155
 Southside city (pt.), Alabama, 8257
+Southside city (pt.), Alabama, 155
 Spanish Fort city, Alabama, 6798
 Spanish Fort city, Alabama, 6798
 Sparkman city, Arkansas, 427
 Sparkman city, Arkansas, 427
 Springdale city, Arkansas, 69797
-Springdale city (pt.), Arkansas, 6054
 Springdale city (pt.), Arkansas, 63743
+Springdale city (pt.), Arkansas, 6054
 Springerville town, Arizona, 1961
 Springerville town, Arizona, 1961
 Springtown town, Arkansas, 87
@@ -34888,9 +34888,9 @@ Tarrant city, Alabama, 6397
 Tarrant city, Alabama, 6397
 Taylor city, Arkansas, 566
 Taylor city, Arkansas, 566
+Taylor town, Arizona, 4112
+Taylor town, Arizona, 4112
 Taylor town, Alabama, 2375
-Taylor town, Arizona, 4112
-Taylor town, Arizona, 4112
 Taylor town (pt.), Alabama, 2368
 Taylor town (pt.), Alabama, 7
 Tehachapi city, California, 14414
@@ -34927,8 +34927,8 @@ Thousand Oaks city, California, 126683
 Tiburon town, California, 8962
 Tiburon town, California, 8962
 Tillar city, Arkansas, 225
-Tillar city (pt.), Arkansas, 204
 Tillar city (pt.), Arkansas, 21
+Tillar city (pt.), Arkansas, 204
 Tinsman town, Arkansas, 54
 Tinsman town, Arkansas, 54
 Togiak city, Alaska, 817
@@ -35057,12 +35057,12 @@ Vandervoort town, Arkansas, 87
 Vandervoort town, Arkansas, 87
 Ventura County, California, 823318
 Vernon city, California, 112
-Vernon city, Alabama, 2000
 Vernon city, California, 112
 Vernon city, Alabama, 2000
+Vernon city, Alabama, 2000
 Vestavia Hills city, Alabama, 34033
-Vestavia Hills city (pt.), Alabama, 14
 Vestavia Hills city (pt.), Alabama, 34019
+Vestavia Hills city (pt.), Alabama, 14
 Victoria town, Arkansas, 37
 Victoria town, Arkansas, 37
 Victorville city, California, 115903
@@ -35074,8 +35074,8 @@ Vilonia city, Arkansas, 3815
 Vina town, Alabama, 358
 Vina town, Alabama, 358
 Vincent town, Alabama, 1988
-Vincent town (pt.), Alabama, 0
 Vincent town (pt.), Alabama, 1988
+Vincent town (pt.), Alabama, 0
 Vincent town (pt.), Alabama, 0
 Viola town, Arkansas, 337
 Viola town, Arkansas, 337
@@ -35134,8 +35134,8 @@ Watson city, Arkansas, 211
 Watsonville city, California, 51199
 Watsonville city, California, 51199
 Waverly town, Alabama, 145
-Waverly town (pt.), Alabama, 98
 Waverly town (pt.), Alabama, 47
+Waverly town (pt.), Alabama, 98
 Weaver city, Alabama, 3038
 Weaver city, Alabama, 3038
 Webb town, Alabama, 1430
@@ -35194,8 +35194,8 @@ White Hall town, Alabama, 858
 White Mountain city, Alaska, 190
 White Mountain city, Alaska, 190
 Whittier city, California, 85331
-Whittier city, California, 85331
 Whittier city, Alaska, 220
+Whittier city, California, 85331
 Whittier city, Alaska, 220
 Wickenburg town, Arizona, 6363
 Wickenburg town (pt.), Arizona, 0
@@ -35211,10 +35211,10 @@ Wildomar city, California, 32176
 Wildomar city, California, 32176
 Willcox city, Arizona, 3757
 Willcox city, Arizona, 3757
-Williams city, Arizona, 3023
-Williams city, Arizona, 3023
 Williams city, California, 5123
 Williams city, California, 5123
+Williams city, Arizona, 3023
+Williams city, Arizona, 3023
 Williford town, Arkansas, 75
 Williford town, Arkansas, 75
 Willisville town, Arkansas, 152
@@ -35245,9 +35245,9 @@ Winfield city (pt.), Alabama, 3947
 Winkelman town, Arizona, 353
 Winkelman town (pt.), Arizona, 0
 Winkelman town (pt.), Arizona, 353
+Winslow city, Arizona, 9655
+Winslow city, Arizona, 9655
 Winslow city, Arkansas, 391
-Winslow city, Arizona, 9655
-Winslow city, Arizona, 9655
 Winslow city, Arkansas, 391
 Winston County, Alabama, 24484
 Winters city, California, 6624
@@ -35264,8 +35264,8 @@ Woodruff County, Arkansas, 7260
 Woodside town, California, 5287
 Woodside town, California, 5287
 Woodstock town, Alabama, 1428
-Woodstock town (pt.), Alabama, 1330
 Woodstock town (pt.), Alabama, 98
+Woodstock town (pt.), Alabama, 1330
 Woodville town, Alabama, 746
 Woodville town, Alabama, 746
 Wooster town, Arkansas, 860

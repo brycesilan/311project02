@@ -1106,7 +1106,7 @@ Nauvoo town (pt.), Alabama, 1
 Balance of Winston County, Alabama, 17464
 
 Sorted by POPULATION
-CPU time: 0.00787193 seconds on 1102 records
+CPU time: 0.00791214 seconds on 1102 records
 Vincent town (pt.), Alabama, 0
 Vincent town (pt.), Alabama, 0
 Gu-Win town (pt.), Alabama, 0
@@ -2211,7 +2211,7 @@ Jefferson County, Alabama, 658466
 Alabama, Alabama, 4779736
 
 Sorted by NAME
-CPU time: 0.0266372 seconds on 1102 records
+CPU time: 0.0260096 seconds on 1102 records
 Abbeville city, Alabama, 2688
 Abbeville city, Alabama, 2688
 Adamsville city, Alabama, 4522
@@ -4422,7 +4422,7 @@ Nauvoo town (pt.), Alabama, 1
 Balance of Winston County, Alabama, 17464
 
 Sorted by POPULATION
-CPU time: 0.00188236 seconds on 1102 records
+CPU time: 0.00191528 seconds on 1102 records
 Garden City town (pt.), Alabama, 0
 Trafford town (pt.), Alabama, 0
 Piedmont city (pt.), Alabama, 0
@@ -5527,7 +5527,7 @@ Jefferson County, Alabama, 658466
 Alabama, Alabama, 4779736
 
 Sorted by NAME
-CPU time: 0.00236329 seconds on 1102 records
+CPU time: 0.00237014 seconds on 1102 records
 Abbeville city, Alabama, 2688
 Abbeville city, Alabama, 2688
 Adamsville city, Alabama, 4522
@@ -7738,13 +7738,13 @@ Nauvoo town (pt.), Alabama, 1
 Balance of Winston County, Alabama, 17464
 
 Sorted by POPULATION
-CPU time: 0.000635128 seconds on 1102 records
-Vincent town (pt.), Alabama, 0
+CPU time: 0.000743218 seconds on 1102 records
 Garden City town (pt.), Alabama, 0
-Piedmont city (pt.), Alabama, 0
-Vincent town (pt.), Alabama, 0
 Trafford town (pt.), Alabama, 0
+Piedmont city (pt.), Alabama, 0
 Gu-Win town (pt.), Alabama, 0
+Vincent town (pt.), Alabama, 0
+Vincent town (pt.), Alabama, 0
 Nauvoo town (pt.), Alabama, 1
 Dothan city (pt.), Alabama, 5
 Sardis City town (pt.), Alabama, 6
@@ -7768,19 +7768,19 @@ Glencoe city (pt.), Alabama, 38
 Waverly town (pt.), Alabama, 47
 Haleyville city (pt.), Alabama, 48
 Benton town, Alabama, 49
-Benton town, Alabama, 49
 Vance town (pt.), Alabama, 49
+Benton town, Alabama, 49
 Dayton town, Alabama, 52
 Glen Allen town (pt.), Alabama, 52
 Dayton town, Alabama, 52
+Emelle town, Alabama, 53
 Mooresville town, Alabama, 53
 Mooresville town, Alabama, 53
 Emelle town, Alabama, 53
-Emelle town, Alabama, 53
+Goldville town, Alabama, 55
 Goldville town, Alabama, 55
 Cardiff town, Alabama, 55
 Cardiff town, Alabama, 55
-Goldville town, Alabama, 55
 Petrey town, Alabama, 58
 Petrey town, Alabama, 58
 Argo town (pt.), Alabama, 61
@@ -7794,8 +7794,8 @@ Decatur city (pt.), Alabama, 84
 Needham town, Alabama, 94
 Needham town, Alabama, 94
 Blue Springs town, Alabama, 96
-Blue Springs town, Alabama, 96
 Calera city (pt.), Alabama, 96
+Blue Springs town, Alabama, 96
 Waverly town (pt.), Alabama, 98
 Faunsdale town, Alabama, 98
 Faunsdale town, Alabama, 98
@@ -7816,24 +7816,24 @@ Libertyville town, Alabama, 117
 Cusseta town, Alabama, 123
 Cusseta town, Alabama, 123
 Myrtlewood town, Alabama, 130
-Eldridge town, Alabama, 130
-Eldridge town, Alabama, 130
 Myrtlewood town, Alabama, 130
+Eldridge town, Alabama, 130
+Eldridge town, Alabama, 130
 Pine Apple town, Alabama, 132
 Pine Apple town, Alabama, 132
 Toxey town, Alabama, 137
+Pollard town, Alabama, 137
+Pollard town, Alabama, 137
 Toxey town, Alabama, 137
-Pollard town, Alabama, 137
-Pollard town, Alabama, 137
 Five Points town, Alabama, 141
 Five Points town, Alabama, 141
 Lakeview town, Alabama, 143
 Lakeview town, Alabama, 143
+Gaylesville town, Alabama, 144
 Billingsley town, Alabama, 144
 Billingsley town, Alabama, 144
 Gaylesville town, Alabama, 144
 Millbrook city (pt.), Alabama, 144
-Gaylesville town, Alabama, 144
 Waverly town, Alabama, 145
 North Johns town, Alabama, 145
 North Johns town, Alabama, 145
@@ -7850,12 +7850,12 @@ Banks town, Alabama, 179
 Banks town, Alabama, 179
 Loachapoka town, Alabama, 180
 Loachapoka town, Alabama, 180
-Riverview town, Alabama, 184
 Woodland town, Alabama, 184
 Onycha town, Alabama, 184
 Riverview town, Alabama, 184
-Woodland town, Alabama, 184
 Onycha town, Alabama, 184
+Riverview town, Alabama, 184
+Woodland town, Alabama, 184
 Newbern town, Alabama, 186
 Newbern town, Alabama, 186
 Glenwood town, Alabama, 187
@@ -7881,39 +7881,39 @@ Paint Rock town, Alabama, 210
 Paint Rock town, Alabama, 210
 Daviston town, Alabama, 214
 Daviston town, Alabama, 214
-Belk town, Alabama, 215
-Belk town, Alabama, 215
 Gilbertown town, Alabama, 215
+Belk town, Alabama, 215
+Belk town, Alabama, 215
 Gilbertown town, Alabama, 215
 Kellyton town, Alabama, 217
 Kellyton town, Alabama, 217
 Nauvoo town (pt.), Alabama, 220
+Pennington town, Alabama, 221
+Pennington town, Alabama, 221
 Nauvoo town, Alabama, 221
-Pennington town, Alabama, 221
-Pennington town, Alabama, 221
 Gantt town, Alabama, 222
 Gantt town, Alabama, 222
 Providence town, Alabama, 223
 Providence town, Alabama, 223
 Kansas town, Alabama, 226
 Kansas town, Alabama, 226
-Coffee Springs town, Alabama, 228
-Coffee Springs town, Alabama, 228
 Horn Hill town, Alabama, 228
 Horn Hill town, Alabama, 228
-Union town, Alabama, 237
+Coffee Springs town, Alabama, 228
+Coffee Springs town, Alabama, 228
 Detroit town, Alabama, 237
 Union town, Alabama, 237
 Detroit town, Alabama, 237
+Union town, Alabama, 237
 McIntosh town, Alabama, 238
 McIntosh town, Alabama, 238
 Sanford town, Alabama, 241
 Sanford town, Alabama, 241
 Heath town, Alabama, 254
 Heath town, Alabama, 254
+Sweet Water town, Alabama, 258
 County Line town, Alabama, 258
 Sweet Water town, Alabama, 258
-Sweet Water town, Alabama, 258
 Goshen town, Alabama, 266
 Goshen town, Alabama, 266
 Colony town, Alabama, 268
@@ -7926,12 +7926,12 @@ Shiloh town, Alabama, 274
 Shiloh town, Alabama, 274
 Bakerhill town, Alabama, 279
 Bakerhill town, Alabama, 279
-Repton town, Alabama, 282
-Pine Ridge town, Alabama, 282
-Anderson town, Alabama, 282
 Anderson town, Alabama, 282
 Repton town, Alabama, 282
 Pine Ridge town, Alabama, 282
+Repton town, Alabama, 282
+Pine Ridge town, Alabama, 282
+Anderson town, Alabama, 282
 Waldo town, Alabama, 283
 Waldo town, Alabama, 283
 Fruithurst town, Alabama, 284
@@ -7966,10 +7966,10 @@ Madrid town, Alabama, 350
 Madrid town, Alabama, 350
 Coffeeville town, Alabama, 352
 Coffeeville town, Alabama, 352
-Hytop town, Alabama, 354
-Napier Field town, Alabama, 354
 Napier Field town, Alabama, 354
 Hytop town, Alabama, 354
+Hytop town, Alabama, 354
+Napier Field town, Alabama, 354
 Akron town, Alabama, 356
 Akron town, Alabama, 356
 Arley town, Alabama, 357
@@ -8027,9 +8027,9 @@ Glen Allen town, Alabama, 510
 Lockhart town, Alabama, 516
 Lockhart town, Alabama, 516
 Louisville town, Alabama, 519
+Eva town, Alabama, 519
+Eva town, Alabama, 519
 Louisville town, Alabama, 519
-Eva town, Alabama, 519
-Eva town, Alabama, 519
 McKenzie town (pt.), Alabama, 522
 River Falls town, Alabama, 526
 River Falls town, Alabama, 526
@@ -8037,8 +8037,8 @@ Oak Grove town, Alabama, 528
 Oak Grove town, Alabama, 528
 McKenzie town, Alabama, 530
 Sand Rock town (pt.), Alabama, 537
-Lisman town, Alabama, 539
 Newville town, Alabama, 539
+Lisman town, Alabama, 539
 Lisman town, Alabama, 539
 Newville town, Alabama, 539
 Kinston town, Alabama, 540
@@ -8096,14 +8096,14 @@ Silverhill town, Alabama, 706
 Silverhill town, Alabama, 706
 Maplesville town, Alabama, 708
 Maplesville town, Alabama, 708
-Pisgah town, Alabama, 722
-Pisgah town, Alabama, 722
 Moundville town (pt.), Alabama, 722
+Pisgah town, Alabama, 722
+Pisgah town, Alabama, 722
+Excel town, Alabama, 723
+Magnolia Springs town, Alabama, 723
 Excel town, Alabama, 723
 Magnolia Springs town, Alabama, 723
 Ider town, Alabama, 723
-Excel town, Alabama, 723
-Magnolia Springs town, Alabama, 723
 Ider town, Alabama, 723
 Somerville town, Alabama, 724
 Somerville town, Alabama, 724
@@ -8127,9 +8127,9 @@ Susan Moore town, Alabama, 763
 Susan Moore town, Alabama, 763
 Ariton town, Alabama, 764
 Ariton town, Alabama, 764
+Section town, Alabama, 770
+Section town, Alabama, 770
 Winfield city (pt.), Alabama, 770
-Section town, Alabama, 770
-Section town, Alabama, 770
 Hobson City town, Alabama, 771
 Hobson City town, Alabama, 771
 New Site town, Alabama, 773
@@ -8160,8 +8160,8 @@ Autaugaville town, Alabama, 870
 Autaugaville town, Alabama, 870
 Dothan city (pt.), Alabama, 887
 Notasulga town (pt.), Alabama, 890
-Grant town, Alabama, 896
 Geraldine town, Alabama, 896
+Grant town, Alabama, 896
 Grant town, Alabama, 896
 Geraldine town, Alabama, 896
 Brilliant town, Alabama, 900
@@ -8213,8 +8213,8 @@ Boaz city (pt.), Alabama, 1109
 New Brockton town, Alabama, 1146
 New Brockton town, Alabama, 1146
 Phil Campbell town, Alabama, 1148
-Phil Campbell town, Alabama, 1148
 Berry town, Alabama, 1148
+Phil Campbell town, Alabama, 1148
 Berry town, Alabama, 1148
 Deatsville town, Alabama, 1154
 Deatsville town, Alabama, 1154
@@ -8333,11 +8333,11 @@ Samson city, Alabama, 1940
 Lake View town, Alabama, 1943
 Lake View town, Alabama, 1943
 Collinsville town (pt.), Alabama, 1962
-Florala town, Alabama, 1980
 Thorsby town, Alabama, 1980
 Slocomb city, Alabama, 1980
 Florala town, Alabama, 1980
 Thorsby town, Alabama, 1980
+Florala town, Alabama, 1980
 Slocomb city, Alabama, 1980
 Collinsville town, Alabama, 1983
 Vincent town, Alabama, 1988
@@ -8380,9 +8380,9 @@ Helena city (pt.), Alabama, 2225
 Good Hope town, Alabama, 2264
 Good Hope town, Alabama, 2264
 Midland City town, Alabama, 2344
+Henagar city, Alabama, 2344
+Henagar city, Alabama, 2344
 Midland City town, Alabama, 2344
-Henagar city, Alabama, 2344
-Henagar city, Alabama, 2344
 Indian Springs Village city, Alabama, 2363
 Indian Springs Village city, Alabama, 2363
 Taylor town (pt.), Alabama, 2368
@@ -8646,8 +8646,8 @@ Sumter County, Alabama, 13763
 Choctaw County, Alabama, 13859
 Gardendale city, Alabama, 13893
 Gardendale city, Alabama, 13893
-Balance of Monroe County, Alabama, 13904
 Balance of Geneva County, Alabama, 13904
+Balance of Monroe County, Alabama, 13904
 Crenshaw County, Alabama, 13906
 Clay County, Alabama, 13932
 Fort Payne city, Alabama, 14012
@@ -8843,7 +8843,7 @@ Jefferson County, Alabama, 658466
 Alabama, Alabama, 4779736
 
 Sorted by NAME
-CPU time: 0.00131614 seconds on 1102 records
+CPU time: 0.00153913 seconds on 1102 records
 Abbeville city, Alabama, 2688
 Abbeville city, Alabama, 2688
 Adamsville city, Alabama, 4522
@@ -8864,8 +8864,8 @@ Aliceville city, Alabama, 2486
 Allgood town, Alabama, 622
 Allgood town, Alabama, 622
 Altoona town, Alabama, 933
-Altoona town (pt.), Alabama, 30
 Altoona town (pt.), Alabama, 903
+Altoona town (pt.), Alabama, 30
 Andalusia city, Alabama, 9015
 Andalusia city, Alabama, 9015
 Anderson town, Alabama, 282
@@ -8873,8 +8873,8 @@ Anderson town, Alabama, 282
 Anniston city, Alabama, 23106
 Anniston city, Alabama, 23106
 Arab city, Alabama, 8050
-Arab city (pt.), Alabama, 8023
 Arab city (pt.), Alabama, 27
+Arab city (pt.), Alabama, 8023
 Ardmore town, Alabama, 1194
 Ardmore town, Alabama, 1194
 Argo town, Alabama, 4071
@@ -9002,8 +9002,8 @@ Bibb County, Alabama, 22915
 Billingsley town, Alabama, 144
 Billingsley town, Alabama, 144
 Birmingham city, Alabama, 212237
-Birmingham city (pt.), Alabama, 210609
 Birmingham city (pt.), Alabama, 1628
+Birmingham city (pt.), Alabama, 210609
 Black town, Alabama, 207
 Black town, Alabama, 207
 Blount County, Alabama, 57322
@@ -9041,8 +9041,8 @@ Butler County, Alabama, 20947
 Butler town, Alabama, 1894
 Butler town, Alabama, 1894
 Calera city, Alabama, 11620
-Calera city (pt.), Alabama, 11524
 Calera city (pt.), Alabama, 96
+Calera city (pt.), Alabama, 11524
 Calhoun County, Alabama, 118572
 Camden city, Alabama, 2020
 Camden city, Alabama, 2020
@@ -9173,9 +9173,9 @@ Dodge City town, Alabama, 593
 Dora city, Alabama, 2025
 Dora city, Alabama, 2025
 Dothan city, Alabama, 65496
-Dothan city (pt.), Alabama, 64604
-Dothan city (pt.), Alabama, 5
 Dothan city (pt.), Alabama, 887
+Dothan city (pt.), Alabama, 5
+Dothan city (pt.), Alabama, 64604
 Double Springs town, Alabama, 1083
 Double Springs town, Alabama, 1083
 Douglas town, Alabama, 744
@@ -9204,8 +9204,8 @@ Elmore town, Alabama, 1262
 Emelle town, Alabama, 53
 Emelle town, Alabama, 53
 Enterprise city, Alabama, 26562
-Enterprise city (pt.), Alabama, 423
 Enterprise city (pt.), Alabama, 26139
+Enterprise city (pt.), Alabama, 423
 Epes town, Alabama, 192
 Epes town, Alabama, 192
 Escambia County, Alabama, 38319
@@ -9289,8 +9289,8 @@ Geraldine town, Alabama, 896
 Gilbertown town, Alabama, 215
 Gilbertown town, Alabama, 215
 Glen Allen town, Alabama, 510
-Glen Allen town (pt.), Alabama, 52
 Glen Allen town (pt.), Alabama, 458
+Glen Allen town (pt.), Alabama, 52
 Glencoe city, Alabama, 5160
 Glencoe city (pt.), Alabama, 38
 Glencoe city (pt.), Alabama, 5122
@@ -9395,8 +9395,8 @@ Houston County, Alabama, 101547
 Hueytown city, Alabama, 16105
 Hueytown city, Alabama, 16105
 Huntsville city, Alabama, 180105
-Huntsville city (pt.), Alabama, 1521
 Huntsville city (pt.), Alabama, 178584
+Huntsville city (pt.), Alabama, 1521
 Hurtsboro town, Alabama, 553
 Hurtsboro town, Alabama, 553
 Hytop town, Alabama, 354
@@ -9448,9 +9448,9 @@ Lauderdale County, Alabama, 92709
 Lawrence County, Alabama, 34339
 Lee County, Alabama, 140247
 Leeds city, Alabama, 11773
-Leeds city (pt.), Alabama, 106
-Leeds city (pt.), Alabama, 9809
 Leeds city (pt.), Alabama, 1858
+Leeds city (pt.), Alabama, 9809
+Leeds city (pt.), Alabama, 106
 Leesburg town, Alabama, 1027
 Leesburg town, Alabama, 1027
 Leighton town, Alabama, 729
@@ -9535,8 +9535,8 @@ Midland City town, Alabama, 2344
 Midway town, Alabama, 499
 Midway town, Alabama, 499
 Millbrook city, Alabama, 14640
-Millbrook city (pt.), Alabama, 144
 Millbrook city (pt.), Alabama, 14496
+Millbrook city (pt.), Alabama, 144
 Millport town, Alabama, 1049
 Millport town, Alabama, 1049
 Millry town, Alabama, 546
@@ -9564,8 +9564,8 @@ Mosses town, Alabama, 1029
 Moulton city, Alabama, 3471
 Moulton city, Alabama, 3471
 Moundville town, Alabama, 2427
-Moundville town (pt.), Alabama, 722
 Moundville town (pt.), Alabama, 1705
+Moundville town (pt.), Alabama, 722
 Mount Vernon town, Alabama, 1574
 Mount Vernon town, Alabama, 1574
 Mountain Brook city, Alabama, 20413
@@ -9583,8 +9583,8 @@ Napier Field town, Alabama, 354
 Natural Bridge town, Alabama, 37
 Natural Bridge town, Alabama, 37
 Nauvoo town, Alabama, 221
-Nauvoo town (pt.), Alabama, 1
 Nauvoo town (pt.), Alabama, 220
+Nauvoo town (pt.), Alabama, 1
 Nectar town, Alabama, 345
 Nectar town, Alabama, 345
 Needham town, Alabama, 94
@@ -9608,8 +9608,8 @@ North Johns town, Alabama, 145
 Northport city, Alabama, 23330
 Northport city, Alabama, 23330
 Notasulga town, Alabama, 965
-Notasulga town (pt.), Alabama, 75
 Notasulga town (pt.), Alabama, 890
+Notasulga town (pt.), Alabama, 75
 Oak Grove town, Alabama, 528
 Oak Grove town, Alabama, 528
 Oak Hill town, Alabama, 26
@@ -9635,8 +9635,8 @@ Orrville town, Alabama, 204
 Owens Cross Roads town, Alabama, 1521
 Owens Cross Roads town, Alabama, 1521
 Oxford city, Alabama, 21348
-Oxford city (pt.), Alabama, 4151
 Oxford city (pt.), Alabama, 17197
+Oxford city (pt.), Alabama, 4151
 Ozark city, Alabama, 14907
 Ozark city, Alabama, 14907
 Paint Rock town, Alabama, 210
@@ -9655,8 +9655,8 @@ Perry County, Alabama, 10591
 Petrey town, Alabama, 58
 Petrey town, Alabama, 58
 Phenix City city, Alabama, 32822
-Phenix City city (pt.), Alabama, 4153
 Phenix City city (pt.), Alabama, 28669
+Phenix City city (pt.), Alabama, 4153
 Phil Campbell town, Alabama, 1148
 Phil Campbell town, Alabama, 1148
 Pickens County, Alabama, 19746
@@ -9689,8 +9689,8 @@ Pollard town, Alabama, 137
 Powell town, Alabama, 955
 Powell town, Alabama, 955
 Prattville city, Alabama, 33960
-Prattville city (pt.), Alabama, 1792
 Prattville city (pt.), Alabama, 32168
+Prattville city (pt.), Alabama, 1792
 Priceville town, Alabama, 2658
 Priceville town, Alabama, 2658
 Prichard city, Alabama, 22659
@@ -9744,15 +9744,15 @@ Rutledge town, Alabama, 467
 Samson city, Alabama, 1940
 Samson city, Alabama, 1940
 Sand Rock town, Alabama, 560
-Sand Rock town (pt.), Alabama, 537
 Sand Rock town (pt.), Alabama, 23
+Sand Rock town (pt.), Alabama, 537
 Sanford town, Alabama, 241
 Sanford town, Alabama, 241
 Saraland city, Alabama, 13405
 Saraland city, Alabama, 13405
 Sardis City town, Alabama, 1704
-Sardis City town (pt.), Alabama, 6
 Sardis City town (pt.), Alabama, 1698
+Sardis City town (pt.), Alabama, 6
 Satsuma city, Alabama, 6168
 Satsuma city, Alabama, 6168
 Scottsboro city, Alabama, 14770
@@ -9830,8 +9830,8 @@ Tallassee city (pt.), Alabama, 1709
 Tarrant city, Alabama, 6397
 Tarrant city, Alabama, 6397
 Taylor town, Alabama, 2375
-Taylor town (pt.), Alabama, 2368
 Taylor town (pt.), Alabama, 7
+Taylor town (pt.), Alabama, 2368
 Thomaston town, Alabama, 417
 Thomaston town, Alabama, 417
 Thomasville city, Alabama, 4209
@@ -9843,8 +9843,8 @@ Town Creek town, Alabama, 1100
 Toxey town, Alabama, 137
 Toxey town, Alabama, 137
 Trafford town, Alabama, 646
-Trafford town (pt.), Alabama, 0
 Trafford town (pt.), Alabama, 646
+Trafford town (pt.), Alabama, 0
 Triana town, Alabama, 496
 Triana town, Alabama, 496
 Trinity town, Alabama, 2095
@@ -9852,8 +9852,8 @@ Trinity town, Alabama, 2095
 Troy city, Alabama, 18033
 Troy city, Alabama, 18033
 Trussville city, Alabama, 19933
-Trussville city (pt.), Alabama, 19450
 Trussville city (pt.), Alabama, 483
+Trussville city (pt.), Alabama, 19450
 Tuscaloosa County, Alabama, 194656
 Tuscaloosa city, Alabama, 90468
 Tuscaloosa city, Alabama, 90468
@@ -9932,8 +9932,8 @@ Wilsonville town, Alabama, 1827
 Wilton town, Alabama, 687
 Wilton town, Alabama, 687
 Winfield city, Alabama, 4717
-Winfield city (pt.), Alabama, 3947
 Winfield city (pt.), Alabama, 770
+Winfield city (pt.), Alabama, 3947
 Winston County, Alabama, 24484
 Woodland town, Alabama, 184
 Woodland town, Alabama, 184
