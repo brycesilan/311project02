@@ -9,6 +9,9 @@
 #define CSCI_311_CENSUSDATA_H
 
 #include <vector>
+#include <chrono>
+#include <random>
+
 using std::ifstream;
 using std::string;
 using std::vector;
@@ -39,8 +42,8 @@ private:
 //
   void mergeSort(int leftBound, int rightBound, int namePopulation);
   void merge(int leftBound, int midBound, int rightBound, int namePopulation);
-  void quickSort(int leftBound, int rightBound, int namePopulation);
-  int randomizedPartition(int leftBound, int rightBound, int namePopulation);
+  void quickSort(int leftBound, int rightBound, int namePopulation, std::default_random_engine generator);
+  int randomizedPartition(int leftBound, int rightBound, int namePopulation, std::default_random_engine generator);
   int partition(int leftBound, int rightBound, int namePopulation);
 };
 

@@ -76,17 +76,20 @@ void CensusData::mergeSort(int type) {
 //return nothing
 //pass in int 'type' (sort by name/population
 void CensusData::quickSort(int type) {
-  //seed random
-  srand (time(NULL));
+  //instantiate and seed the random number generator
+  unsigned seed = std::chrono::system_clock::now().time_since_epoch().count();
+  std::default_random_engine generator (seed);
   //if type==0, sort by population
   if(type==0) {
     //pass leftBound=0, rightBound=data.size()-1, type=0(for name sort)
-    quickSort(0, data.size()-1, type);
+    //  and seeded generator
+    quickSort(0, data.size()-1, type, generator);
   }
   //if type==1, sort by name
   else if(type==1) {
-    //pass leftBound=0, rightBound=data.size()-1, type=1(for pop. sort
-    quickSort(0, data.size()-1, type);
+    //pass leftBound=0, rightBound=data.size()-1, type=1(for pop. sort)
+    //  and seeded generator
+    quickSort(0, data.size()-1, type, generator);
   }
 }
 
@@ -181,14 +184,14 @@ void CensusData::merge(int leftBound, int midBound, int rightBound, int namePopu
 //returns nothing
 //pass in leftBound/rightBound for array use
 //  and namePopulation(for sorting type)
-void CensusData::quickSort(int leftBound, int rightBound, int namePopulation) {
+void CensusData::quickSort(int leftBound, int rightBound, int namePopulation, std::default_random_engine generator) {
   //checks for base case, of 1 item or less array
   if(leftBound<rightBound) {
     //create a midbound by calling randomizedPartition, pass in vars.
-    int midBound=randomizedPartition(leftBound, rightBound, namePopulation);
+    int midBound=randomizedPartition(leftBound, rightBound, namePopulation, generator);
     //call quicksort on each sub-array (left/right)
-    quickSort(leftBound, midBound-1, namePopulation);
-    quickSort(midBound+1, rightBound, namePopulation);
+    quickSort(leftBound, midBound-1, namePopulation, generator);
+    quickSort(midBound+1, rightBound, namePopulation, generator);
   }
 }
 
@@ -197,9 +200,10 @@ void CensusData::quickSort(int leftBound, int rightBound, int namePopulation) {
 //  between the two sorted halves
 //pass in left/right bounds for array use
 //  and namePopulation(for sorting type)
-int CensusData::randomizedPartition(int leftBound, int rightBound, int namePopulation) {
-  //set randomNum to something from leftBound to rightBound
-  int randomNum = rand()%((rightBound-leftBound)+1)+leftBound;
+int CensusData::randomizedPartition(int leftBound, int rightBound, int namePopulation, std::default_random_engine generator) {
+  //set randomNum to a num. from leftBound to rightBound
+  std::uniform_int_distribution<int> distribution(leftBound,rightBound);
+  int randomNum = distribution(generator);
   //swap data numbers [randomNum] and [rightBound]
   // to avoid worst case sorting 
   Record* tmp=data[randomNum];
