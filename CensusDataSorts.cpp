@@ -76,6 +76,8 @@ void CensusData::mergeSort(int type) {
 //return nothing
 //pass in int 'type' (sort by name/population
 void CensusData::quickSort(int type) {
+  //seed random
+  srand (time(NULL));
   //if type==0, sort by population
   if(type==0) {
     //pass leftBound=0, rightBound=data.size()-1, type=0(for name sort)
@@ -196,8 +198,6 @@ void CensusData::quickSort(int leftBound, int rightBound, int namePopulation) {
 //pass in left/right bounds for array use
 //  and namePopulation(for sorting type)
 int CensusData::randomizedPartition(int leftBound, int rightBound, int namePopulation) {
-  //seed random
-  srand (time(NULL));
   //set randomNum to something from leftBound to rightBound
   int randomNum = rand()%((rightBound-leftBound)+1)+leftBound;
   //swap data numbers [randomNum] and [rightBound]
